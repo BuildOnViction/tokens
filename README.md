@@ -1,6 +1,6 @@
-### Update token information
+## Update token information
 
-**How To Add Token**
+**How To Update Token Information**
 - Follow image requirements
 - Proceed to https://github.com/tomochain/tokens
 - Press on Fork in the top right corner, wait for process to complete
@@ -51,10 +51,10 @@
 }
 ```
 
-### Token Verification (blue tick)
+## Token Verification (blue tick)
 
 - Update file `verifiedlist.json`, add the token address and create a pull request
 
-### Token Black List
+## Token Black List
 
 - Update file `blacklist.json`, add the token address and create a pull request
