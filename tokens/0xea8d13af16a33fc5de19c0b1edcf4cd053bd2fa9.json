@@ -1,12 +1,13 @@
 {
-    "symbol":"CONST",
-    "officialSiteUrl":"https://myconstant.com",
-    "email":" hello@myconstant.com",
-    "telegram":"https://t.me/constantp2p",
-    "reddit":"https://www.reddit.com/r/myconstant/",
-    "medium":"https://medium.com/@constantp2p",
-    "youtube":"https://www.youtube.com/channel/UCAPR7eWI41ADSGtCEroUeNw",
-    "twitter":"https://twitter.com/constantp2p",
-    "facebook":"https://www.facebook.com/constantp2p",
-    "github":"https://github.com/incognitochain"
+    "symbol": "CONST",
+    "name": "Constant Stablecoin ",
+    "officialSiteUrl": "https://myconstant.com",
+    "email": "hello@myconstant.com",
+    "telegram": "https://t.me/constantp2p",
+    "reddit": "https://www.reddit.com/r/myconstant/",
+    "medium": "https://medium.com/@constantp2p",
+    "youtube": "https://www.youtube.com/channel/UCAPR7eWI41ADSGtCEroUeNw",
+    "twitter": "https://twitter.com/constantp2p",
+    "facebook": "https://www.facebook.com/constantp2p",
+    "github": "https://github.com/incognitochain"
 }
