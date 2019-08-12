@@ -37,6 +37,7 @@
 {
     "symbol": "TOMO",
     "name": "TomoChain",
+    "description": "TomoChain's native token",
     "site": "https://tomochain.com",
     "email": "admin@tomochain.com",
     "telegram": "https://t.me/tomochain",
