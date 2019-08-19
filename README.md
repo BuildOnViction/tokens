@@ -1,4 +1,5 @@
 ## Update token information
+You can fill [Google form](https://forms.gle/b8dPHFyGqfk5BVjw8) or create a PR on this repository
 
 **How To Update Token Information**
 - Follow image requirements
