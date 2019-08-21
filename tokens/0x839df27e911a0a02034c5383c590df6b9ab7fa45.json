@@ -2,11 +2,5 @@
     "symbol": "BM",
     "name": "Batman",
     "website": "https://en.wikipedia.org/wiki/Batman",
-    "communities": {
-        "telegram": "",
-        "medium": "",
-        "twitter": "",
-        "facebook": "",
-        "github": ""
-    }    
+    "communities": {}    
 }
