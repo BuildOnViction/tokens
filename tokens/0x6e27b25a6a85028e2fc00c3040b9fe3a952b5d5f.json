@@ -1,0 +1,12 @@
+{
+    "symbol": "TPC",
+    "name": "Tomo Poker Chips",
+    "description": "Token used to play with on Tomo Poker dApp",
+    "website": "https://tomo.poker",
+    "communities": {
+        "email": "tiski@tomo.poker",
+        "telegram": "https://t.me/tomopoker",
+        "github": "https://github.com/xchng/tomo.poker"
+    }
+    
+}
