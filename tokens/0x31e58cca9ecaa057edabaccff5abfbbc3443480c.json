@@ -1,0 +1,12 @@
+{
+    "symbol": "POMO",
+    "name": "Pomodoro",
+    "description": "TomoChain community token",
+    "website": "https://medium.com/pomo-token",
+    "communities": {
+        "email": "POMOtoken@gmail.com",
+        "medium": "https://medium.com/pomo-token",
+        "twitter": "https://twitter.com/POMOtoken",
+        "github": "https://github.com/PomodoroToken"
+    }
+}
