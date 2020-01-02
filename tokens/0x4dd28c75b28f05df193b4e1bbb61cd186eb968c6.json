@@ -2,5 +2,7 @@
     "symbol": "ORBYT",
     "name": "Orbyt Token",
     "website": "https://www.bitorb.com",
-    "communities": {}    
+    "communities": {
+        "twitter": "https://twitter.com/BitOrb_official"
+    }    
 }
