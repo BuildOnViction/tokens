@@ -1,0 +1,9 @@
+{
+    "symbol": "BIP",
+    "name": "BipCash",
+    "description": "Near-zero fee transactional system.",
+    "website": "https://www.bipcash.com",
+    "communities": {
+        "twitter": "https://twitter.com/bipcash1"
+    }
+}
