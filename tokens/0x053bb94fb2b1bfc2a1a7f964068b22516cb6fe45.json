@@ -1,0 +1,9 @@
+{
+    "symbol": "EVND",
+    "name": "Viet Nam Dong",
+    "description": "EVND token information. This is a Fiat token developed on the TRC21 blockchain platform of TOMO Chain.EVND is used to pay for consumer shopping bills through EVND Wallet payment application",
+    "website": "https://datacoinex.io",
+    "communities": {
+        "github": "https://github.com/EVND"
+    }
+}
