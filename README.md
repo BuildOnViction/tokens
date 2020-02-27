@@ -4,9 +4,9 @@ There are 2 ways to update your token information in TomoChain's products.
 1. [Create an issue](https://github.com/tomochain/tokens/issues/new?assignees=thanhson1085%2C+khaihkd&labels=help+wanted&template=feature-request.md&title=)
 2. Create a pull request
 
-Your request will be processed before the first working day of the next month.
-
 If you have any question, you can create [a "question" issue](https://github.com/tomochain/tokens/issues/new?assignees=&labels=question&template=question.md&title=).
+
+Your requests/questions will be processed before the first working day of the next month.
 
 **How To Update Token Information by a pull request**
 - Follow image requirements
