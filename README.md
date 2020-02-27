@@ -8,6 +8,7 @@ If you have any question, you can create [a "question" issue](https://github.com
 
 Your requests/questions will be processed before the first working day of the next month.
 
+
 **How To Update Token Information by a pull request**
 - Follow image requirements
 - Proceed to https://github.com/tomochain/tokens
