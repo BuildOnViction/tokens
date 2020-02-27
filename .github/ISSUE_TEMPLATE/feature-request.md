@@ -6,6 +6,8 @@ labels: help wanted
 assignees: 'thanhson1085, khaihkd'
 
 ---
+**Token Address**
+e.g: https://scan.tomochain.com/address/0x
 
 **Token Symbol**
 e.g: TOMO, KNC
