@@ -1,0 +1,12 @@
+{
+    "symbol": "PUSD",
+    "name": "PayFrequent USD",
+    "description": "PayFrequent USD token",
+    "website": "https://www.payfrequent.com",
+    "communities": {
+        "email": "help@payfrequent.com",
+        "telegram": "https://t.me/payfrequent",
+        "twitter": "https://twitter.com/payfrequent",
+        "facebook": "https://www.facebook.com/payfrequent/"
+    }
+}
