@@ -1,8 +1,12 @@
 {
-  "symbol": "LARB",
-  "name": "LARB",
-  "website": "https://inlarb.com/",
-  "communities": {
-    "twitter": "https://twitter.com/inlarb"
-  }
+    "symbol": "LARB",
+    "name": "Larb",
+    "description": "inLarb native asset backed utility token",
+    "website": "https://inlarb.com/",
+    "communities": {
+        "telegram": "https://t.me/inlarbnetwork",
+        "twitter": "https://twitter.com/inlarb",
+        "instagram": "https://instagram.com/inlarbnetwork",
+        "youtube": "https://www.youtube.com/channel/UCCDn7l-MXhfprWb44yXc4jw"
+    }
 }

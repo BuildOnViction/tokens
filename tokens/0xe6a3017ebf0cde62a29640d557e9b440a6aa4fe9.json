@@ -1,0 +1,14 @@
+{
+    "symbol": "TICKET",
+    "name": "PantoDraw",
+    "description": "A token that is used to play PantoDraw Gacha.",
+    "website": "https://pantograph.io/",
+    "communities": {
+        "email": "pantograph@bacoor.co",
+        "telegram": "https://t.me/pantograph_io",
+        "twitter": "https://twitter.com/pantograph_io",
+        "facebook": "https://www.facebook.com/Pantograph.io",
+        "instagram": "https://instagram.com/pantograph_io",
+        "reddit": "https://www.reddit.com/r/Pantograph"
+    }
+}
