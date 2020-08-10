@@ -1,0 +1,13 @@
+{
+    "symbol": "SRM",
+    "name": "Serum",
+    "description": "Serum is the world's first completely decentralized derivatives exchange with trustless cross-chain trading brought to you by Project Serum, in collaboration with a consortium of crypto trading and DeFi experts. While we built the Serum protocol, it is permissionless – we do not hold special power anymore. It is up to you, the crypto community, to use it as you will.",
+    "website": "https://projectserum.com",
+    "communities": {
+        "email": "contact@projectserum.com",
+        "telegram": "https://t.me/ProjectSerum",
+        "twitter": "https://twitter.com/projectserum",
+        "discord": "https://discord.com/invite/MxZFT4v",
+        "weibo": "https://weibo.com/u/7483904107"
+    }
+}
