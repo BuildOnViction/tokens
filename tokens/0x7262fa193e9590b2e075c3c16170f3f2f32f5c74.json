@@ -1,0 +1,12 @@
+{
+    "symbol": "LUA",
+    "name": "LuaToken",
+    "description": "",
+    "website": "https://luaswap.org/",
+    "communities": {
+        "github": "https://github.com/tomochain/luaswap",
+        "telegram": "https://t.me/LuaSwap",
+        "twitter": "https://twitter.com/LuaSwap",
+        "medium": "https://medium.com/luaswap"
+    }
+}
