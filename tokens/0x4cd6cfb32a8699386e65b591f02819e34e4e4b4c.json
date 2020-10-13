@@ -1,0 +1,13 @@
+{
+    "symbol": "OM",
+    "name": "MANTRA DAO",
+    "description": "MANTRA DAO is a community-governed DeFi platform focusing on Staking, Lending, and Governance.",
+    "website": "https://www.mantradao.com/",
+    "communities": {
+        "email": "contract@mantradao.com",
+        "medium": "https://medium.com/@mantradao",
+        "telegram": "https://t.me/MANTRADAO",
+        "github": "https://github.com/Mantradao",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/mantra-dao/"
+    }
+}
