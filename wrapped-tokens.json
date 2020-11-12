@@ -202,5 +202,17 @@
         "network": "ethereum",
         "coingecko_id": "linear",
         "tokenName": "Linear Finance"
+    },
+    {
+        "name": "LIT",
+        "confirmations": 6,
+        "decimals": 18,
+        "minimumWithdrawal": "40",
+        "wrapperAddress": "0xf9787E76750c1e731054Cf4Cc97a2e3F490DB360",
+        "tokenName": "LIT",
+        "network": "ethereum",
+        "explorerUrl": "https://etherscan.io",
+        "tokenAddress": "0x763fa6806e1acf68130d2d0f0df754c93cc546b2",
+        "coingecko_id": "lition"
     }
 ]
