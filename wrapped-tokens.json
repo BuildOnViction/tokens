@@ -214,5 +214,17 @@
         "explorerUrl": "https://etherscan.io",
         "tokenAddress": "0x763fa6806e1acf68130d2d0f0df754c93cc546b2",
         "coingecko_id": "lition"
+    },
+    {
+        "name": "APM",
+        "confirmations": 6,
+        "decimals": 18,
+        "minimumWithdrawal": "40",
+        "wrapperAddress": "0xa48e7b76f9c0a6412f842253458af7d3b6caa70d",
+        "tokenName": "apM Coin",
+        "network": "ethereum",
+        "explorerUrl": "https://etherscan.io",
+        "tokenAddress": "0xc8c424b91d8ce0137bab4b832b7f7d154156ba6c",
+        "coingecko_id": "apm-coin"
     }
 ]
