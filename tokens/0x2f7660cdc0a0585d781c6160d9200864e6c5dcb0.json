@@ -1,7 +1,7 @@
 {
-    "symbol": "%PDX",
-    "name": "STAKE PDX",
-    "description": "Show the PDX occupancy and percentage of profit share from Pantograph DEX",
+    "symbol": "PDX",
+    "name": "PDX TOKEN",
+    "description": "The bonus token that will be rewarded to users when they trade on Pantograph DEX",
     "website": "https://dex.pantograph.app/",
     "communities": {
         "telegram": "https://t.me/pantographgroup",
