@@ -1,0 +1,18 @@
+{
+    "symbol": "LINK",
+    "name": "ChainLink",
+    "description": "Blockchain Oracles for Connected Smart Contracts",
+    "website": "https://chain.link",
+    "communities": {
+        "email": "support@chain.link",
+        "telegram": "https://t.me/chainlinkofficial",
+        "reddit": "https://www.reddit.com/r/Chainlink/",
+        "discord": "https://discord.gg/aSK4zew",
+        "youtube": "https://www.youtube.com/chainlinkofficial",
+        "twitter": "https://twitter.com/chainlink",
+        "wechat": "https://blog.chain.link/chainlink-chinese-communities/",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/chainlink/",
+        "coingecko": "https://www.coingecko.com/en/coins/chainlink"
+    }
+    
+}
