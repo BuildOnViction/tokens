@@ -1,8 +1,8 @@
 {
     "symbol": "DTE",
     "name": "Data Exchange",
-    "description": "DTE is the official token of DataDEX developed on Tomochain's TRC21 platform.DTE is the payment unit on our ecosystem for all users who want to store assets or buy and sell DTE payments on Our smart contract in early 2021",
-    "website": "https://datacoinex.io/",
+    "description": "Data Exchange is the TRC21 token of the Datadex decentralized exchange",
+    "website": "https://datadex.pro/",
     "communities": {
         "github": "https://github.com/Data-DEX"
     }
