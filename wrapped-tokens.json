@@ -235,12 +235,12 @@
         "wrapperAddress": "0xcca4e6302510d555b654b3eab9c0fcb223bcfdf0",
         "tokenAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
         "network": "ethereum",
-        "explorerUrl": "https://etherscan.io"
+        "explorerUrl": "https://etherscan.io",
         "coingecko_id": "usd-coin",
         "tokenName": "USD Coin (USDC)"
     },
     {
-        "name": "LINK"
+        "name": "LINK",
         "confirmations": 6,
         "decimals": 18,
         "minimumWithdrawal": 0.000001,
