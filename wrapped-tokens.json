@@ -231,11 +231,11 @@
         "name": "USDC",
         "confirmations": 6,
         "decimals": 6,
-        "minimumWithdrawal": 0.000001
-        "wrapperAddress": "0xcca4e6302510d555b654b3eab9c0fcb223bcfdf0"
-        "tokenAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
-        "network": "ethereum"
-        "coingecko_id": "usd-coin"
+        "minimumWithdrawal": 0.000001,
+        "wrapperAddress": "0xcca4e6302510d555b654b3eab9c0fcb223bcfdf0",
+        "tokenAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "network": "ethereum",
+        "coingecko_id": "usd-coin",
         "tokenName": "USD Coin (USDC)"
     }
 ]
