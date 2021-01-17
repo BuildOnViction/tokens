@@ -207,7 +207,7 @@
         "name": "LIT",
         "confirmations": 6,
         "decimals": 18,
-        "minimumWithdrawal": "40",
+        "minimumWithdrawal": 40,
         "wrapperAddress": "0xf9787E76750c1e731054Cf4Cc97a2e3F490DB360",
         "tokenName": "LIT",
         "network": "ethereum",
@@ -219,12 +219,23 @@
         "name": "APM",
         "confirmations": 6,
         "decimals": 18,
-        "minimumWithdrawal": "40",
+        "minimumWithdrawal": 40,
         "wrapperAddress": "0xa48e7b76f9c0a6412f842253458af7d3b6caa70d",
         "tokenName": "apM Coin",
         "network": "ethereum",
         "explorerUrl": "https://etherscan.io",
         "tokenAddress": "0xc8c424b91d8ce0137bab4b832b7f7d154156ba6c",
         "coingecko_id": "apm-coin"
+    },
+    {
+        "name": "USDC",
+        "confirmations": 6,
+        "decimals": 6,
+        "minimumWithdrawal": 0.000001
+        "wrapperAddress": "0xcca4e6302510d555b654b3eab9c0fcb223bcfdf0"
+        "tokenAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+        "network": "ethereum"
+        "coingecko_id": "usd-coin"
+        "tokenName": "USD Coin (USDC)"
     }
 ]
