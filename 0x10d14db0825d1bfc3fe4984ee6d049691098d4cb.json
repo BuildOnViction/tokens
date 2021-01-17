@@ -1,7 +1,7 @@
 {
     "symbol": "LINK",
-    "name": "ChainLink",
-    "description": "Blockchain Oracles for Connected Smart Contracts",
+    "name": "Tomo Wrapped ChainLink",
+    "description": "This is a Tomo wrapped version of Chainlink (LINK), which is on Ethereum network.",
     "website": "https://chain.link",
     "communities": {
         "email": "support@chain.link",
