@@ -1,5 +1,5 @@
 {
-    "symbol": "twUSDC",
+    "symbol": "USDC",
     "name": "Tomo Wrapped USD Coin (USDC)",
     "description": "This is a Tomo wrapped version of USD Coin (USDC), which is a fully collateralized US Dollar stablecoin developed by CENTRE on Ethereum network.",
     "website": "https://www.circle.com/en/usdc",
