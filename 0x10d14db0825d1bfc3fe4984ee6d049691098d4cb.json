@@ -1,7 +1,7 @@
 {
     "symbol": "LINK",
-    "name": "Tomo Wrapped ChainLink",
-    "description": "This is a Tomo wrapped version of the Chainlink (LINK) on Ethereum network.",
+    "name": "Tomo wrapped ChainLink (LINK)",
+    "description": "This is a Tomo wrapped version of the Chainlink (LINK) coin on Ethereum network.",
     "website": "https://chain.link",
     "communities": {
         "email": "support@chain.link",
