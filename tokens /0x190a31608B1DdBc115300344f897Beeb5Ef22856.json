@@ -1,0 +1,13 @@
+{ 
+    " símbolo " : " BTCOL " , 
+    " name " : " Bitcoin Colombiano " , 
+    " description " : " Primer Bitcoin Colombiano Official para operar sin una autoridad central o bancos. 
+                        Bitcoin Colombiano es de codigo abierto, nadie posee ni controla Bitcoin Colombiano
+                        La gestión de transacciones y la emisión de BTCOL se lleva a cabo colectivamente por la red. " , 
+    " sitio web " : " https://tomochain.com  " , 
+    " comunidades " : { 
+        " email " : " BicoinCol.org@gmail.com " , 
+        " twitter " : " https://twitter.com/BitcoinColombi4 " , 
+        " facebook " : " https://www.facebook.com/Bitcoin-Colombiano-105198608242198 " 
+} 
+} 
