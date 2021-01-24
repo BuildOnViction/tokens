@@ -1,0 +1,12 @@
+{ 
+    " símbolo " : " BTCOL " , 
+    " nombre " : " Bitcoin Colombiano " , 
+    " description " : " Intercambio criptográfico instantáneo sin ningún KYC. " , 
+    " sitio web " : " http://www.bitcoincol.com.co/ " , 
+    " comunidades " : { 
+        " correo electrónico " : " help@bitcoincol.org " , 
+        " facebook " : " https://www.facebook.com/Bitcoin-Colombiano-105198608242198 " , 
+        " twitter " : " https://twitter.com/BitcoinColombi4 " 
+} 
+    
+} 
