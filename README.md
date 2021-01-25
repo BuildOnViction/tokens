@@ -63,11 +63,9 @@ Your requests/questions will be processed before the first working day of the ne
     
 }
 ```
+## Wrapped ERC-20 badger
+- Add the token address to `brigde.json`
 
-## Token Verification (blue tick)
-
-- Update file `verifiedlist.json`, add the token address and create a pull request
-
-## Token Black List
-
-- Update file `blacklist.json`, add the token address and create a pull request
+## Token Verification (blue tick) & Token Black List
+- `verifiedlist.json` list all tokens have blue tick
+- `blacklist.json` list all tokens in blacklist
