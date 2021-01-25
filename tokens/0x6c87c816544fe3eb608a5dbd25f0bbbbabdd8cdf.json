@@ -1,0 +1,15 @@
+﻿{
+  "symbol": "REN",
+  "name": "REN",
+  "description": "Liquidity, unchained",
+  "website": "https://renproject.io/",
+  "communities": {
+    "email": "support@renproject.io",
+    "twitter": "https://twitter.com/renprotocol",
+    "telegram": "https://t.me/renproject",
+    "reddit": "https://www.reddit.com/r/renproject",
+    "medium": "https://medium.com/renproject",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ren/",
+    "coingecko": "https://www.coingecko.com/en/coins/ren"
+  }
+}

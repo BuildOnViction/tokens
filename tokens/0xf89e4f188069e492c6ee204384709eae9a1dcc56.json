@@ -1,0 +1,14 @@
+﻿{
+  "symbol": "SNX",
+  "name": "Synthetix",
+  "description": "THE DERIVATIVES LIQUIDITY PROTOCOL",
+  "website": "https://www.synthetix.io/",
+  "communities": {
+    "email": "info@synthetix.io",
+    "discord": "https://discord.com/invite/AEdUHzt",
+    "twitter": "https://twitter.com/synthetix_io",
+    "github": "https://github.com/synthetixio",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/synthetix-network-token/",
+    "coingecko": "https://www.coingecko.com/en/coins/synthetix-network-token"
+  }
+}
