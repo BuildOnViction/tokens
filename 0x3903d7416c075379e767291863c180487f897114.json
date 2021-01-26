@@ -1,0 +1,14 @@
+{
+    "symbol": "PAX",
+    "name": "Tomo wrapped Paxos Standard (PAX)",
+    "description": "This is a Tomo wrapped version of Paxos Standard (PAX). Which is a fully collateralized US Dollar stablecoin developed by Paxos on Ethereum network.",
+    "website": "https://www.paxos.com/pax",
+    "communities": {
+        "medium": "https://medium.com/@PaxosStandard",
+        "reddit": "https://www.reddit.com/r/PaxosStandardToken/",
+        "twitter": "https://twitter.com/paxosstandard",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/paxos-standard/",
+        "coingecko": "https://www.coingecko.com/en/coins/paxos-standard"
+    }
+    
+}
