@@ -1,7 +1,7 @@
 { 
     " símbolo " : " WBTC " , 
     " name " : " Wrapped Bitcoin " , 
-    " description " : " WBTC: Wrapped BTC is backed 1:1 with Bitcoin held in BitGo custody. Complete transparent. 100% verifiable. " , 
+    " description " : " Wrapped Bitcoin Token " , 
     " sitio web " : " https://wbtc.network/ " , 
     " comunidades " : { 
         " email " : " help@wbtac.org " , 
