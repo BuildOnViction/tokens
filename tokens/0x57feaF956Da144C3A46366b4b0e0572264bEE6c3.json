@@ -1,0 +1,9 @@
+{ 
+    " símbolo " : " WBTC " , 
+    " name " : " Bitcoin envuelto " , 
+    " description " : "WBTC: Wrapped BTC is backed 1:1 with Bitcoin held in BitGo custody. Complete transparent. 100% verifiable." , 
+    " sitio web " : " https://wbtc.network/ " , 
+    "  comunidades  "  : {  
+        " correo electrónico " : " help@wbtc.org " , 
+        " facebook " : " https://www.facebook.com/Wrapper-Bitcoin-101347865309898 "  
+} 
