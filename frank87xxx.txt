@@ -1,0 +1,13 @@
+{
+    "symbol": "BTC",
+    "name": "Bitcoin",
+    "contract name": "0x92498345e296c940A2b9688ae2f4Dc25265473e1.MinterRole"
+    "description": "Originally created as a joke, to be used only between friends and family",
+    "token logo": "https://imagizer.imageshack.com/img922/1233/2gsByt.png",
+    "website": "none",
+    "communities": {
+        "email": "a.pacheco@invtpship.com",
+        "telegram": "https://t.me/investmenteu",
+    }
+    
+}
