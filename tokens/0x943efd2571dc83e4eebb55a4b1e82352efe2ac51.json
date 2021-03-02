@@ -1,0 +1,18 @@
+{
+    "symbol": "BNB",
+    "name": "Binance Coin",
+    "description": "Binance Coin",
+    "website": "https://www.binance.com/",
+    "communities": {
+        "telegram": "https://t.me/binanceexchange",
+        "reddit": "https://www.reddit.com/r/binance/",
+        "medium": "https://medium.com/@binance",
+        "youtube": "https://www.youtube.com/channel/UCfYw6dhiwGBJQY_-Jcs8ozw",
+        "twitter": "https://twitter.com/binance",
+        "facebook": "https://www.facebook.com/binance",
+        "github": "https://github.com/binance",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/binance-coin/",
+        "coingecko": "https://www.coingecko.com/en/coins/binance-coin"
+    }
+    
+}
