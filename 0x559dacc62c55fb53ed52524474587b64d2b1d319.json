@@ -1,0 +1,14 @@
+{
+    "symbol": "eRSDL",
+    "name": "UnFederalReserve",
+    "description": "UnFederalReserve's token",
+    "website": "https://unfederalreserve.com/",
+    "communities": {
+        "telegram": "https://t.me/unfedres_staking",
+        "reddit": "https://www.reddit.com/r/unFederalReserve/",
+        "github": "https://github.com/ResidualToken",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/unfederalreserve/",
+        "coingecko": "https://www.coingecko.com/en/coins/unfederalreserve"
+    }
+    
+}
