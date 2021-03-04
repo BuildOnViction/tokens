@@ -1,0 +1,13 @@
+{
+    "symbol": "UST",
+    "name": "TerraUSD",
+    "website": "https://terra.money/",
+    "communities": {
+        "telegram": "https://t.me/TerraLunaChat",
+        "medium": "https://medium.com/terra-money",
+        "twitter": "https://twitter.com/terra_money",
+        "github": "https://github.com/terra-project",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/terrausd/",
+        "coingecko": "https://www.coingecko.com/en/coins/terra-usd"
+    }   
+}
