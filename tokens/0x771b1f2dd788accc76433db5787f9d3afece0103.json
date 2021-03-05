@@ -1,0 +1,15 @@
+{
+    "symbol": "DAI",
+    "name": "Dai",
+    "website": "https://makerdao.com/",
+    "communities": {
+        "telegram": "https://t.me/makerdaoOfficial",
+        "reddit": "https://www.reddit.com/r/MakerDAO/",
+        "medium": "https://medium.com/@MakerDAO",
+        "youtube": "https://www.youtube.com/MakerDAO",
+        "twitter": "https://twitter.com/MakerDAO",
+        "github": "https://github.com/makerdao",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/multi-collateral-dai/",
+        "coingecko": "https://www.coingecko.com/en/coins/dai"
+    }
+}
