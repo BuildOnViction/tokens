@@ -1,0 +1,16 @@
+{
+    "symbol": "CEL",
+    "name": "Celsius",
+    "website": "https://celsius.network/",
+    "communities": {
+        "telegram": "https://t.me/celsiusnetwork",
+        "reddit": "https://reddit.com/r/celsiusnetwork",
+        "medium": "https://celsiusnetwork.medium.com/",
+        "youtube": "https://www.youtube.com/channel/UC3yZY7UVs-zPKBuyNuPinbQ",
+        "twitter": "https://twitter.com/celsiusnetwork",
+        "facebook": "https://www.facebook.com/CelsiusNetwork/",
+        "github": "https://github.com/CelsiusNetwork",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/celsius/",
+        "coingecko": "https://www.coingecko.com/en/coins/celsius-network-token"
+    }
+}
