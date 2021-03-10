@@ -1,0 +1,10 @@
+{
+    "symbol": "Max",
+    "name": "MaxBet",
+    "description": "The token for maxbet.pigfarm.io",
+    "website": "http://pigfarmteam.github.io",
+    "communities": {
+        "telegram": "http://pigfarmteam.github.io/",
+        "twitter": "https://twitter.com/PigFarmTeam"
+    }
+}
