@@ -1,0 +1,16 @@
+{
+    "symbol": "KNC",
+    "name": "Kyber Network",
+    "website": "https://kyber.network/",
+    "communities": {
+        "telegram": "https://t.me/kybernetwork",
+        "reddit": "https://reddit.com/r/kybernetwork",
+        "medium": "https://medium.com/@kyberteam",
+        "youtube": "https://www.youtube.com/channel/UCQ-8mEqsKM3x9dTT6rrqgJw",
+        "twitter": "https://twitter.com/kybernetwork",
+        "facebook": "https://www.facebook.com/crystal.kyber.network/",
+        "github": "https://github.com/kybernetwork",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/kyber-network/",
+        "coingecko": "https://www.coingecko.com/en/coins/kyber-network"
+    } 
+}
