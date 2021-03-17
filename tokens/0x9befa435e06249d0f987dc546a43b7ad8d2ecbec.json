@@ -1,0 +1,14 @@
+{
+    "symbol": "BUSD",
+    "name": "Binance USD",
+    "website": "https://www.paxos.com/busd/",
+    "communities": {
+        "medium": "https://medium.com/paxos",
+        "youtube": "https://www.youtube.com/channel/UCXZ2rmjM84qS80RCj6vQ1gw",
+        "twitter": "https://twitter.com/PaxosGlobal",
+        "facebook": "https://www.facebook.com/435061516577389",
+        "github": "https://github.com/paxosglobal/busd-contract",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/binance-usd/",
+        "coingecko": "https://www.coingecko.com/en/coins/binance-usd"
+    }
+}

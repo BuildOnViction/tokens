@@ -1,0 +1,13 @@
+{
+    "symbol": "COMP",
+    "name": "Compound",
+    "website": "https://compound.finance",
+    "communities": {
+        "reddit": "https://www.reddit.com/r/Compound/",
+        "medium": "https://medium.com/compound-finance",
+        "twitter": "https://twitter.com/compoundfinance",
+        "github": "https://github.com/compound-finance/compound-protocol",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/compound/",
+        "coingecko": "https://www.coingecko.com/en/coins/compound"
+    }   
+}

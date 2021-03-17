@@ -1,0 +1,13 @@
+{
+    "symbol": "UNI",
+    "name": "Uniswap",
+    "website": "https://uniswap.org/",
+    "communities": {
+        "reddit": "https://www.reddit.com/r/Uniswap",
+        "medium": "https://medium.com/@uniswap",
+        "twitter": "https://twitter.com/Uniswap",
+        "github": "https://github.com/Uniswap",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/uniswap/",
+        "coingecko": "https://www.coingecko.com/en/coins/uniswap"
+    } 
+}

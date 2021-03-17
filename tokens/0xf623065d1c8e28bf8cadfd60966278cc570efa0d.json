@@ -1,0 +1,13 @@
+{
+    "symbol": "PAXG",
+    "name": "PAX Gold",
+    "website": "https://www.paxos.com/paxgold/",
+    "communities": {
+        "medium": "https://medium.com/paxos",
+        "twitter": "https://twitter.com/paxosglobal",
+        "facebook": "https://www.facebook.com/435061516577389",
+        "github": "https://github.com/paxosglobal/paxos-gold-contract",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/pax-gold/",
+        "coingecko": "https://www.coingecko.com/en/coins/pax-gold"
+    }
+}

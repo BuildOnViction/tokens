@@ -1,0 +1,14 @@
+{
+    "symbol": "GUSD",
+    "name": "Gemini Dollar",
+    "website": "https://gemini.com/dollar/",
+    "communities": {
+        "email": "support@gemini.com",
+        "reddit": "https://reddit.com/r/Gemini",
+        "twitter": "https://twitter.com/GeminiDotCom",
+        "facebook": "https://www.facebook.com/GeminiTrust/?_fb_noscript=1",
+        "github": "https://github.com/gemini",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/gemini-dollar/",
+        "coingecko": "https://www.coingecko.com/en/coins/gemini-dollar"
+    }
+}

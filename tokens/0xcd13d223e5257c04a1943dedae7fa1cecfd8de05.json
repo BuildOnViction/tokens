@@ -1,0 +1,13 @@
+{
+    "symbol": "SUSHI",
+    "name": "SushiSwap",
+    "website": "https://sushiswap.org/",
+    "communities": {
+        "reddit": "https://www.reddit.com/r/SushiSwap/",
+        "medium": "https://medium.com/@sushiswapchef",
+        "twitter": "https://twitter.com/sushiswap",
+        "github": "https://github.com/sushiswap/sushiswap",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/sushiswap/",
+        "coingecko": "https://www.coingecko.com/en/coins/sushi"
+    }
+}
