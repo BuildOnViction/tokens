@@ -1,0 +1,19 @@
+{
+    "symbol": "GLAD",
+    "name": "Gladius Finance",
+    "description": "GLAD Price Live Data
+The live Gladius Finance price today is $5.67 USD with a 24-hour trading volume of not available. Gladius Finance is up 1.44% in the last 24 hours. The current CoinMarketCap ranking is #4407, with a live market cap of not available. The circulating supply is not available and a max. supply of 20,000 GLAD coins.
+
+GLADIUS FINANCE is a fusion between a DeFi Yield Farming and a NFTs Gaming dApp, aim at solving the problems that overshadowed Yield Farming platforms".
+    "website": "gladius.finance",
+    "communities": {
+        "email": "developer@gladius.finance",       
+        "blog": "https://gladiusfinance.medium.com",       
+        "telegram": "GladiusFinanceOfficial",        
+        "twitter": "https://twitter.com/gladiusfinance",       
+        "whitepaper": "https://gladius.finance/assets/files/Gladius_Light_Paper.pdf",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/gladius-finance/",       
+        "Uniswap": "https://info.uniswap.org/token/0xf75c5d8ed3f556ca670c06c08079609da6374a10/"
+        }
+
+}
