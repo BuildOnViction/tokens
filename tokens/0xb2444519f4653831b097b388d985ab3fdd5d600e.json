@@ -1,0 +1,10 @@
+{
+    "symbol": "TAI",
+    "name": "TAI",
+    "description": "TAI is a TRC-21 token acting as Stablecoin. Users generate TAI by depositing collateral assets into TomoFinance.",
+    "website": "https://tomo.finance/",
+    "communities": {
+        "twitter": "https://twitter.com/TomoFinance",
+        "medium": "https://tomofinance.medium.com/"
+    }
+}
