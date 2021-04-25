@@ -1,0 +1,16 @@
+{
+     "symbol": "MIST",
+     "name": "Alchemist",
+     "description":
+     "website": "https://alchemist.farm",
+     "communities": {
+         "email": "",       
+         "blog": "",       
+         "telegram": "",        
+         "twitter": "https://twitter.com/_alchemistcoin",       
+         "whitepaper": "",
+         "coinmarketcap": "https://coinmarketcap.com/es/currencies/alchemist/markets/",       
+         "Uniswap": "https://info.uniswap.org/token/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab"
+         }
+
+ }
