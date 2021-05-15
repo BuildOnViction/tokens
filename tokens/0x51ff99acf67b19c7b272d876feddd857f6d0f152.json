@@ -1,0 +1,16 @@
+{
+    "symbol": "ToJer",
+    "name": "Tom And Jerry",
+    "website": "https://tomandjerrycoin.com/",
+    "communities": {
+        "telegram": "https://t.me/tomandjerrycoin",
+        "reddit": "https://reddit.com/r/tomandjerrycoin",
+        "medium": "https://medium.com/@tomandjerrycoin",
+        "youtube": "https://www.youtube.com/tomandjerrycoin",
+        "twitter": "https://twitter.com/tomandjerrycoin",
+        "facebook": "https://www.facebook.com/tomandjerrycoin",
+        "github": "https://github.com/tomandjerrycoin",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/tom-and-jerry",
+        "coingecko": "https://www.coingecko.com/en/coins/tom-and-jerry"
+    } 
+}
