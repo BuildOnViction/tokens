@@ -226,5 +226,16 @@
         "explorerUrl": "https://etherscan.io",
         "tokenAddress": "0xc8c424b91d8ce0137bab4b832b7f7d154156ba6c",
         "coingecko_id": "apm-coin"
-    }
+    },
+    {
+        "name": "0xBTC",
+        "confirmations": 6,
+        "decimals": 8,
+        "explorerUrl": "https://etherscan.io/",
+        "wrapperAddress": "0xb6ed7644c69416d67b522e20bc294a9a9b405b31",
+        "tokenAddress": "0xe6df5ad4a66014f8c5fd791d7C432abae6c90f6f",
+        "network": "ethereum",
+        "minimumWithdrawal": 200,
+        "coingecko_id": "0XBTC",
+        "tokenName": "0xBitcoin"
 ]
