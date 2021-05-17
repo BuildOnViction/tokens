@@ -1,0 +1,15 @@
+{
+     " symbol " : " Husky " ,
+     " name " : " Husky Coin " ,
+     " description " : " the fasted dog coin " ,
+     " sitio web " : " https://huskycoin.tk " ,
+     " comunidades " : {
+         " email " : " admin@huskycoin.tk " ,
+        " telegrama " :" https://t.me/huskycoinchannel " ,
+         " twitter " : " https://twitter.com/huskycoinchannel " ,
+         " facebook " :"https://www.facebook.com/huskycoinchannel/ " ,
+         " coinmarketcap " : " https://coinmarketcap.com/currencies/huskycoin/ " ,
+         " coingecko " : " https://www.coingecko.com/en/coins/huskycoin "
+    }
+    
+}
