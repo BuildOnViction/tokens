@@ -1,0 +1,13 @@
+{
+    "symbol": "BCH",
+    "name": "Bitcoin Cash",
+    "website": "https://bitcoincash.org/",
+    "communities": {
+        "twitter": "https://twitter.com/BITCOlNCASH",
+        "github": "https://github.com/bltcoincashorg",
+        "Reddit": "https://reddit.com/r/Bitcoincash",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/bitcoin-cash/",
+        "coingecko": "https://www.coingecko.com/en/coins/bitcoin-cash/"
+        "Withepaper": "https://www.bitcoincash.org/bitcoin.pdf"
+    }
+}
