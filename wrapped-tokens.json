@@ -226,5 +226,17 @@
         "explorerUrl": "https://etherscan.io",
         "tokenAddress": "0xc8c424b91d8ce0137bab4b832b7f7d154156ba6c",
         "coingecko_id": "apm-coin"
-    }
+    },
+    { 
+        "name": "BCH",
+        "confirmations": 1,
+        "decimals": 18,
+        "minimunWithdrawal": "0.01",
+        "wrapperAddress": "0x67254efb7950c96283ee6176b14cbacf189862b8"
+        "tokenName": "Bitcoin Cash",
+        "network": "Binance"
+        "explorerUrl": "https://bscscan.com/"
+        "tokenAddress": "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf"
+        "coingecko_id": "bitcoin cash"
+    }    
 ]
