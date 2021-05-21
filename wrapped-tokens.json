@@ -226,5 +226,17 @@
         "explorerUrl": "https://etherscan.io",
         "tokenAddress": "0xc8c424b91d8ce0137bab4b832b7f7d154156ba6c",
         "coingecko_id": "apm-coin"
-    }
+    },
+    {
+        "name": "MIST",
+        "confirmations": 6,
+        "decimals": 18,
+        "explorerUrl": "https://etherscan.io/",
+        "wrapperAddress": "0xc46a724b276ff4C18c8b4a225ADa665e82B07057",
+        "minimumWithdrawal": 0.3,
+        "tokenAddress": "0x88ACDd2a6425c3FaAE4Bc9650Fd7E27e0Bebb7aB",
+        "network": "ethereum",
+        "coingecko_id": "alchemist",
+        "tokenName": "Alchemist"
+    }     
 ]
