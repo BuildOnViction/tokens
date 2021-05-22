@@ -1,0 +1,20 @@
+ 
+{
+    "symbol": "UDOLS",
+    "name": "Universal Dollars",
+    "description": "TomoChain's native token",
+    "website": "https://www.universaldollars.com",
+    "communities": {
+        "email": "udols@universaldollars.com",
+        "telegram": "https://t.me/universaldollars",
+        "reddit": "https://www.reddit.com/r/universaldollars/",
+        "medium": "https://medium.com/tomochain",
+        "youtube": "https://www.youtube.com/universaldollars",
+        "twitter": "https://twitter.com/universaldollars",
+        "facebook": "https://www.facebook.com/universaldollars/",
+        "github": "https://github.com/universaldollars",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/universaldollars/",
+        "coingecko": "https://www.coingecko.com/en/coins/universaldollars"
+    }
+    
+}
