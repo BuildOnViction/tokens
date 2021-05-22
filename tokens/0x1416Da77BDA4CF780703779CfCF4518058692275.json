@@ -1,0 +1,20 @@
+ 
+{
+    "symbol": "BTQ",
+    "name": "BitcoinQ",
+    "description": "TomoChain's native token",
+    "website": "https://www.thebitcoinq.com",
+    "communities": {
+        "email": "btq@thebitcoinq.com",
+        "telegram": "https://t.me/thebitcoinq",
+        "reddit": "https://www.reddit.com/r/thebitcoinq/",
+        "medium": "https://medium.com/thebitcoinq",
+        "youtube": "https://www.youtube.com/thebitcoinq",
+        "twitter": "https://twitter.com/thebitcoinq",
+        "facebook": "https://www.facebook.com/thebitcoinq/",
+        "github": "https://github.com/thebitcoinq",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/thebitcoinq/",
+        "coingecko": "https://www.coingecko.com/en/coins/thebitcoinq"
+    }
+    
+}
