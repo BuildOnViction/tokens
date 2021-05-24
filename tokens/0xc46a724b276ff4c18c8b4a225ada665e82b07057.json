@@ -1,0 +1,13 @@
+{
+    "symbol": "MIST",
+    "name": "Alchemist",
+    "description": "The token's purpose is to find the philosopher's stone and use it to explore the galaxy",
+    "website": "gladius.finance",
+    "communities": {
+        "email": "thealchemistcoin@protonmail.com",       
+        "twitter": "https://twitter.com/_alchemistcoin",       
+        "coinmarketcap": "https://coinmarketcap.com/es/currencies/alchemist/",       
+        "Uniswap": "https://uniswap.info/token/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab/"
+   }
+
+}
