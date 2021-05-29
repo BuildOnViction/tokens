@@ -1,0 +1,11 @@
+{
+    "symbol": "RUS",
+    "name": "RMUTSB Token",
+    "website": "http://www.rmutsb.ac.th/",
+    "description" : "A token rewards for the goodness of the people at Rajamangala University of Technology Suvarnabhumi",
+    "communities": {
+        "email" : "utharn.b@rmutsb.ac.th",
+        "youtube": "https://www.youtube.com/channel/UCFBkKLiGhV2Hvjl7HfXI0OQ",
+        "facebook": "https://www.facebook.com/RUS.Suvarnabhumi/"        
+    } 
+}

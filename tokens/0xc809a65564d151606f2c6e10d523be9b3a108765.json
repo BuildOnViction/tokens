@@ -1,0 +1,16 @@
+{
+    "symbol": "SLSH",
+    "name": "Slash",
+    "description": "New Token for all User-content Based on TomoChain",
+    "website": "https://slash.financial",
+    "communities": {
+        "email": "admin@slash.financial",
+        "telegram": "https://t.me/slashfinancial",
+        "reddit": "https://www.reddit.com/user/slashfinancial",
+        "medium": "https://medium.com/@slashfinancial",
+        "youtube": "https://www.youtube.com/channel/UCIr5ouTwXGwn2iQvE0t4oYQ",
+        "twitter": "https://twitter.com/SlashFinancial",
+        "facebook": "https://www.facebook.com/SlashFinancial/",
+        "github": "https://github.com/slashfinancial"
+    }
+}

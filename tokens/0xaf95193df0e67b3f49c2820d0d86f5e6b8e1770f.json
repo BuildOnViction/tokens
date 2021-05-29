@@ -1,0 +1,10 @@
+{
+    "symbol": "TFI",
+    "name": "TOMOFINANCE",
+    "description": "TFI is a TRC-21 token that will be rewarded to users whenever they Payback TAI, partly or entirely",
+    "website": "https://tomo.finance/",
+    "communities": {
+        "twitter": "https://twitter.com/TomoFinance",
+        "medium": "https://tomofinance.medium.com/"
+    }
+}

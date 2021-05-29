@@ -1,0 +1,9 @@
+{
+    "symbol": "KOI",
+    "name": "Koipool",
+    "description": "Koi is used to distribute for winner of jackpot on koipool",
+    "website": "https://koi.tomopool.com/",
+    "communities": {
+        "telegram": "https://t.me/koipool"
+    }
+}
