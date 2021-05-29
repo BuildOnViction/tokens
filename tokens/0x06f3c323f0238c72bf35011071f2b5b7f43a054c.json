@@ -1,0 +1,20 @@
+{
+    "symbol": "MASQ",
+    "name": "MASQ",
+    "description": "MASQ Network utility token",
+    "website": "https://masq.ai",
+    "communities": {
+        "email": "info@masq.ai",
+        "telegram": "https://t.me/MASQ_ai",
+        "discord": "https://discord.gg/cdUsjBQrgq",
+        "reddit": "https://www.reddit.com/r/MASQ/",
+        "medium": "https://medium.com/masq-project",
+        "youtube": "https://youtube.com/c/masq_network",
+        "twitter": "https://twitter.com/MASQ_ai",
+        "facebook": "https://www.facebook.com/masqnetwork/",
+        "github": "https://github.com/MASQ-Project/Node",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/masq/",
+        "coingecko": "https://www.coingecko.com/en/coins/masq"
+    }
+    
+}
