@@ -1,0 +1,13 @@
+{
+    "symbol": "WBTC",
+    "name": "Wrapped BTC",
+    "website": "https://www.wbtc.network",
+    "communities": {
+        "email": "info@wbtc.network",
+        "twitter": "https://twitter.com/WrappedBTC",
+        "github": "https://github.com/WrappedBTC/bitcoin-token-smart-contracts",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/wrapped-bitcoin/",
+        "coingecko": "https://www.coingecko.com/en/coins/wrapped-bitcoin/"
+    }
+    
+}
