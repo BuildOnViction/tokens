@@ -1,0 +1,15 @@
+{
+    "symbol": "MIST",
+    "name": "Alchemist",
+    "description": "The token's purpose is to find the philosopher's stone and use it to explore the galaxy.",
+    "website": "https://github.com/alchemlstcoin/alchemist",
+    "communities": {
+        "email": "thealchemistcoin@protonmail.com",
+        "discord": "http://discord.alchemist.wtf/", 
+        "twitter": "https://twitter.com/_alchemistcoin",
+        "uniswap": "https://v2.info.uniswap.org/pair/0xcd6bcca48069f8588780dfa274960f15685aee0e/",
+        "coinmarketcap": "https://coinmarketcap.com/es/currencies/alchemist/",
+        "coingecko": "https://www.coingecko.com/es/monedas/alchemist"
+    }
+    
+}
