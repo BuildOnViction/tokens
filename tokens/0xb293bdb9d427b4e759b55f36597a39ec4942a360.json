@@ -1,0 +1,10 @@
+{
+    "symbol": "sTFI",
+    "name": "sTFI",
+    "description": "sTFI is received when users stake TFI into the Masternodes system. Staking rewards are calculated according to the proportion of users' sTFI within the total amount of sTFI",
+    "website": "https://tomo.finance/",
+    "communities": {
+        "twitter": "https://twitter.com/TomoFinance",
+        "medium": "https://tomofinance.medium.com/"
+    }
+}
