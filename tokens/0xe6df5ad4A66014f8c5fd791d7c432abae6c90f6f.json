@@ -1,0 +1,15 @@
+{
+     "symbol": "0xBTC",
+      "name": "0xBitcoin",
+      "description": "Pure mined digital currency for Ethereum.",
+      "website": "https://0xbitcoin.org/",
+      "communities": {
+          "email": "https://0xbitcoin.org/",
+          "reddit": "https://www.reddit.com/r/0xbitcoin/",
+          "medium": "https://medium.com/@admazzola/decentralized-ethereum-payments-9c80cd76a65a",
+          "twitter": "https://twitter.com/0xbitcoin_ERC20",
+          "github": "https://github.com/0xbitcoin",
+          "coinmarketcap": "https://coinmarketcap.com/currencies/0xbtc/",
+          "coingecko": "https://www.coingecko.com/en/coins/oxbitcoin/"
+      }
+  }
