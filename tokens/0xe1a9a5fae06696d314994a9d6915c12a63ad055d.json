@@ -1,0 +1,15 @@
+{
+	"symbol": "ZPAY",
+   "name": "ZoidPay",
+   "description": "ZoidPay's native token",
+   "website": "https://www.zoidpay.com",
+   "communities": {
+       "email": "hello@zoidpay.com",
+       "telegram": "https://t.me/zoidpay",
+       "medium": " https://medium.com/zoidcoin-network ",
+       "youtube": " https://www.youtube.com/channel/UC4p8OLV3bXetDx76sAIlx5g ",
+       "twitter": " https://twitter.com/ZoidPay",
+       "facebook": " https://www.facebook.com/zoidcoinnetwork",
+       "coingecko": " https://www.coingecko.com/en/coins/zoid-pay"
+	}
+}
