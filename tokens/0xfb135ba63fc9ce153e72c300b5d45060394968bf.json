@@ -1,0 +1,16 @@
+{
+    "symbol": "MBTC",
+    "name": "mStable BTC",
+    "description": "mStable’s new mAsset, mBTC, unites various Bitcoin-pegged ERC20 tokens.The mBTC token can be minted with wBTC, RenBTC and sBTC, and you can redeem it for those three Bitcoin tokens. Binance’s bBTC will be added next month in our first Feeder Basket. mBTC is also the first implementation in DeFi of a fully-functional meta-stablecoin producing AMM.",
+    "website": "https://mstable.org/",
+    "communities": {
+        "email": "info@mstable.org",
+        "telegram": "https://twitter.com/mstable_",
+        "medium": "https://medium.com/mstable",
+        "twitter": "https://twitter.com/mstable_",
+        "github": "https://github.com/mStabe",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/mstable-btc/",
+        "coingecko": "https://www.coingecko.com/es/monedas/mstable-btc"
+    }
+    
+}
