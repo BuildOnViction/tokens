@@ -1,0 +1,10 @@
+{
+    "symbol": "CSY",
+    "name": "CoinSky",
+    "description": "CoinSky (CSY) is a crypto coin with a total supply of 100,000,000,000 CSY is based on the telegram bot @coinskybot",
+    "website": "https://coinsky.xp3.biz/",
+    "communities": {
+        "telegram": "https://telegram.me/coinskychat",
+        "twitter": "https://twitter.com/CoinSkyOfficial"
+    }
+}
