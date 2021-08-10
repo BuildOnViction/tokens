@@ -1,0 +1,28 @@
+{
+  "name": "tokens",
+  "version": "1.0.0",
+  "description": "The community maintained TomoChain token registry",
+  "main": "generate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomochain/tokens.git"
+  },
+  "keywords": [
+    "tomochain",
+    "tokens"
+  ],
+  "author": "tomochain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomochain/tokens/issues"
+  },
+  "homepage": "https://github.com/tomochain/tokens#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "js-beautify": "^1.14.0",
+    "path": "^0.12.7"
+  }
+}
