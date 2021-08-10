@@ -1,5 +1,5 @@
 {
-    "0x0055a5eae409ee4d10f29968c86df93ac51c21c6.json": {
+    "0x0055a5eae409ee4d10f29968c86df93ac51c21c6": {
         "symbol": "CEL",
         "name": "Celsius",
         "website": "https://celsius.network/",
@@ -14,9 +14,9 @@
             "coinmarketcap": "https://coinmarketcap.com/currencies/celsius/",
             "coingecko": "https://www.coingecko.com/en/coins/celsius-network-token"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x0055a5eae409ee4d10f29968c86df93ac51c21c6.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x0055a5eae409ee4d10f29968c86df93ac51c21c6.png"
     },
-    "0x01a6ff7ad81681728570e3fe5aeb83e9d88d4b4e.json": {
+    "0x01a6ff7ad81681728570e3fe5aeb83e9d88d4b4e": {
         "symbol": "KNC",
         "name": "Kyber Network",
         "website": "https://kyber.network/",
@@ -31,9 +31,9 @@
             "coinmarketcap": "https://coinmarketcap.com/currencies/kyber-network/",
             "coingecko": "https://www.coingecko.com/en/coins/kyber-network"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x01a6ff7ad81681728570e3fe5aeb83e9d88d4b4e.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x01a6ff7ad81681728570e3fe5aeb83e9d88d4b4e.png"
     },
-    "0x01f83ce6636179b54b0cc0c408f9a8bce40ae776.json": {
+    "0x01f83ce6636179b54b0cc0c408f9a8bce40ae776": {
         "symbol": "PEUR",
         "name": "PayFrequent EURO",
         "description": "PayFrequent EURO token",
@@ -44,9 +44,9 @@
             "twitter": "https://twitter.com/payfrequent",
             "facebook": "https://www.facebook.com/payfrequent/"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x01f83ce6636179b54b0cc0c408f9a8bce40ae776.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x01f83ce6636179b54b0cc0c408f9a8bce40ae776.png"
     },
-    "0x043bd4b9c8f93d3c8c220d1fb7b3eb961d24cbf7.json": {
+    "0x043bd4b9c8f93d3c8c220d1fb7b3eb961d24cbf7": {
         "symbol": "C98",
         "name": "Coin98",
         "description": "Coin98's Official Token",
@@ -58,9 +58,9 @@
             "youtube": "https://www.youtube.com/c/coin98",
             "twitter": "https://twitter.com/coin98_net"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x043bd4b9c8f93d3c8c220d1fb7b3eb961d24cbf7.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x043bd4b9c8f93d3c8c220d1fb7b3eb961d24cbf7.png"
     },
-    "0x053bb94fb2b1bfc2a1a7f964068b22516cb6fe45.json": {
+    "0x053bb94fb2b1bfc2a1a7f964068b22516cb6fe45": {
         "symbol": "EVND",
         "name": "Viet Nam Dong",
         "description": "EVND token information. This is a Fiat token developed on the TRC21 blockchain platform of TOMO Chain.EVND is used to pay for consumer shopping bills through EVND Wallet payment application",
@@ -68,9 +68,9 @@
         "communities": {
             "github": "https://github.com/EVND"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x053bb94fb2b1bfc2a1a7f964068b22516cb6fe45.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x053bb94fb2b1bfc2a1a7f964068b22516cb6fe45.png"
     },
-    "0x06f3c323f0238c72bf35011071f2b5b7f43a054c.json": {
+    "0x06f3c323f0238c72bf35011071f2b5b7f43a054c": {
         "symbol": "MASQ",
         "name": "MASQ",
         "description": "MASQ Network utility token",
@@ -88,9 +88,9 @@
             "coinmarketcap": "https://coinmarketcap.com/currencies/masq/",
             "coingecko": "https://www.coingecko.com/en/coins/masq"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x06f3c323f0238c72bf35011071f2b5b7f43a054c.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x06f3c323f0238c72bf35011071f2b5b7f43a054c.png"
     },
-    "0x0716416755dee87498c607bf9008f8efc09ca07c.json": {
+    "0x0716416755dee87498c607bf9008f8efc09ca07c": {
         "symbol": "MTA",
         "name": "Meta",
         "description": "mStable unites stablecoins, lending and swapping into one standard",
@@ -104,9 +104,9 @@
             "coinmarketcap": "https://coinmarketcap.com/currencies/meta/",
             "coingecko": "https://www.coingecko.com/en/coins/meta/"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x0716416755dee87498c607bf9008f8efc09ca07c.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x0716416755dee87498c607bf9008f8efc09ca07c.png"
     },
-    "0x07402f589baa05b09ce43a9d492025f51fa0e6fb.json": {
+    "0x07402f589baa05b09ce43a9d492025f51fa0e6fb": {
         "symbol": "MAFIA",
         "name": "Mafia",
         "description": "",
@@ -114,9 +114,9 @@
         "communities": {
             "telegram": "https://t.me/mafia_token"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x07402f589baa05b09ce43a9d492025f51fa0e6fb.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x07402f589baa05b09ce43a9d492025f51fa0e6fb.png"
     },
-    "0x0ee7a6a795418410bd0b406fa4fc6bb51e789c86.json": {
+    "0x0ee7a6a795418410bd0b406fa4fc6bb51e789c86": {
         "symbol": "sps",
         "name": "Space Shepherd",
         "description": "",
@@ -124,9 +124,9 @@
         "communities": {
             "telegram": "https://t.me/SpaceShepherd"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x0ee7a6a795418410bd0b406fa4fc6bb51e789c86.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x0ee7a6a795418410bd0b406fa4fc6bb51e789c86.png"
     },
-    "0x0f320856fa4bc7e4030a6ab989d494c5e4d58308.json": {
+    "0x0f320856fa4bc7e4030a6ab989d494c5e4d58308": {
         "symbol": "MM",
         "name": "Million",
         "description": "A Decentralized Digital Currency for Millionaires by Millionaires",
@@ -136,9 +136,9 @@
             "twitter": "https://twitter.com/Million__Token",
             "instagram": "https://www.instagram.com/milliontoken/"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x0f320856fa4bc7e4030a6ab989d494c5e4d58308.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x0f320856fa4bc7e4030a6ab989d494c5e4d58308.png"
     },
-    "0x10d14db0825d1bfc3fe4984ee6d049691098d4cb.json": {
+    "0x10d14db0825d1bfc3fe4984ee6d049691098d4cb": {
         "symbol": "LINK",
         "name": "Tomo wrapped ChainLink (LINK)",
         "description": "This is a Tomo wrapped version of the Chainlink (LINK) coin on Ethereum network.",
@@ -154,9 +154,9 @@
             "coinmarketcap": "https://coinmarketcap.com/currencies/chainlink/",
             "coingecko": "https://www.coingecko.com/en/coins/chainlink"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x10d14db0825d1bfc3fe4984ee6d049691098d4cb.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x10d14db0825d1bfc3fe4984ee6d049691098d4cb.png"
     },
-    "0x15b3becf2527f23a5a3e510e99167dadc09ae28b.json": {
+    "0x15b3becf2527f23a5a3e510e99167dadc09ae28b": {
         "symbol": "LARB",
         "name": "Larb",
         "description": "inLarb Network native utility token",
@@ -167,9 +167,9 @@
             "instagram": "https://instagram.com/inlarbnetwork",
             "youtube": "https://www.youtube.com/channel/UCCDn7l-MXhfprWb44yXc4jw"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x15b3becf2527f23a5a3e510e99167dadc09ae28b.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x15b3becf2527f23a5a3e510e99167dadc09ae28b.png"
     },
-    "0x161131a7680010c21aed590c066ad69044c56e74.json": {
+    "0x161131a7680010c21aed590c066ad69044c56e74": {
         "symbol": "POINT",
         "name": "PantoLight",
         "website": "https://pantograph.io",
@@ -181,9 +181,9 @@
             "instagram": "https://instagram.com/pantograph_io",
             "reddit": "https://www.reddit.com/r/Pantograph"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x161131a7680010c21aed590c066ad69044c56e74.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x161131a7680010c21aed590c066ad69044c56e74.png"
     },
-    "0x1bcc347956d04752fcb9b416392bf8666e2d6a8c.json": {
+    "0x1bcc347956d04752fcb9b416392bf8666e2d6a8c": {
         "symbol": "PAZZI",
         "name": "Paparazzi",
         "description": "A new photo-centric commercial industry based on a user-centric platform is possible at people's fingertips",
@@ -193,9 +193,9 @@
             "twitter": "https://twitter.com/paparazzi_coin",
             "medium": "https://medium.com/@PAPARAZZI"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x1bcc347956d04752fcb9b416392bf8666e2d6a8c.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x1bcc347956d04752fcb9b416392bf8666e2d6a8c.png"
     },
-    "0x1dadf37ecdca3c0f01eb845780080ee07c4fe758.json": {
+    "0x1dadf37ecdca3c0f01eb845780080ee07c4fe758": {
         "symbol": "WFROG",
         "name": "WRAPPED CYFROG",
         "description": "Cyfrog Paywall Token is your VIP Backstage Pass to the Economic Revolution",
@@ -203,9 +203,9 @@
         "communities": {
             "telegram": "https://t.me/cyfrog"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x1dadf37ecdca3c0f01eb845780080ee07c4fe758.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x1dadf37ecdca3c0f01eb845780080ee07c4fe758.png"
     },
-    "0x22f5db89d9096a677f47ab6a38ff24135de76c77.json": {
+    "0x22f5db89d9096a677f47ab6a38ff24135de76c77": {
         "symbol": "LOVE",
         "name": "Love You",
         "description": "No matter what, love everyone because everyone is craving love.",
@@ -213,9 +213,9 @@
         "communities": {
             "twitter": "https://twitter.com/Love_trc21"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x22f5db89d9096a677f47ab6a38ff24135de76c77.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x22f5db89d9096a677f47ab6a38ff24135de76c77.png"
     },
-    "0x2a31d8836d84e407a623a4fe7c12c0d883289d94.json": {
+    "0x2a31d8836d84e407a623a4fe7c12c0d883289d94": {
         "symbol": "CSY",
         "name": "CoinSky",
         "description": "CoinSky (CSY) is a crypto coin with a total supply of 100,000,000,000 CSY is based on the telegram bot @coinskybot",
@@ -224,9 +224,9 @@
             "telegram": "https://telegram.me/coinskychat",
             "twitter": "https://twitter.com/CoinSkyOfficial"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x2a31d8836d84e407a623a4fe7c12c0d883289d94.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x2a31d8836d84e407a623a4fe7c12c0d883289d94.png"
     },
-    "0x2c78958660e734701f5d710cf5e967a0c8585ce5.json": {
+    "0x2c78958660e734701f5d710cf5e967a0c8585ce5": {
         "symbol": "CRTS",
         "name": "Cryptotipsfr",
         "description": "",
@@ -235,9 +235,9 @@
             "telegram": "https://t.me/Cryptotipsfr",
             "twitter": "https://twitter.com/cryptotipsfr"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x2c78958660e734701f5d710cf5e967a0c8585ce5.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x2c78958660e734701f5d710cf5e967a0c8585ce5.png"
     },
-    "0x2eaa73bd0db20c64f53febea7b5f5e5bccc7fb8b.json": {
+    "0x2eaa73bd0db20c64f53febea7b5f5e5bccc7fb8b": {
         "symbol": "ETH",
         "name": "ETH",
         "website": "https://tomochain.com",
@@ -250,9 +250,9 @@
             "youtube": "https://www.youtube.com/channel/UCXZ2rmjM84qS80RCj6vQ1gw",
             "reddit": "https://www.reddit.com/r/Tomochain/"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x2eaa73bd0db20c64f53febea7b5f5e5bccc7fb8b.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x2eaa73bd0db20c64f53febea7b5f5e5bccc7fb8b.png"
     },
-    "0x2f7660cdc0a0585d781c6160d9200864e6c5dcb0.json": {
+    "0x2f7660cdc0a0585d781c6160d9200864e6c5dcb0": {
         "symbol": "PDX",
         "name": "PDX TOKEN",
         "description": "The bonus token that will be rewarded to users when they trade on Pantograph DEX",
@@ -264,9 +264,9 @@
             "youtube": "https://www.youtube.com/c/BacoorInc",
             "reddit": "https://www.reddit.com/r/Pantograph"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x2f7660cdc0a0585d781c6160d9200864e6c5dcb0.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x2f7660cdc0a0585d781c6160d9200864e6c5dcb0.png"
     },
-    "0x31e58cca9ecaa057edabaccff5abfbbc3443480c.json": {
+    "0x31e58cca9ecaa057edabaccff5abfbbc3443480c": {
         "symbol": "POMO",
         "name": "Pomodoro",
         "description": "TomoChain community token",
@@ -277,9 +277,9 @@
             "twitter": "https://twitter.com/POMOtoken",
             "github": "https://github.com/PomodoroToken"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x31e58cca9ecaa057edabaccff5abfbbc3443480c.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x31e58cca9ecaa057edabaccff5abfbbc3443480c.png"
     },
-    "0x32a8f1f0960d078669442c1e03a3406a332565fa.json": {
+    "0x32a8f1f0960d078669442c1e03a3406a332565fa": {
         "symbol": "XFX",
         "name": "XFX Solutions",
         "description": "XFX ecosystem utility token",
@@ -291,9 +291,9 @@
             "twitter": "https://twitter.com/XfxFutures",
             "discord": "https://discord.gg/2pbN77c"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x32a8f1f0960d078669442c1e03a3406a332565fa.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x32a8f1f0960d078669442c1e03a3406a332565fa.png"
     },
-    "0x33fa3c0c714638f12339f85dae89c42042a2d9af.json": {
+    "0x33fa3c0c714638f12339f85dae89c42042a2d9af": {
         "symbol": "FTX",
         "name": "FTX Token",
         "description": "FTX Token",
@@ -304,17 +304,17 @@
             "instagram": "https://www.instagram.com/ftx_official/",
             "facebook": "https://www.facebook.com/ftx.official/"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x33fa3c0c714638f12339f85dae89c42042a2d9af.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x33fa3c0c714638f12339f85dae89c42042a2d9af.png"
     },
-    "0x35c59bf2aa7ecb5a57fb011a4e763da6bae61445.json": {
+    "0x35c59bf2aa7ecb5a57fb011a4e763da6bae61445": {
         "symbol": "EXE2",
         "name": "EXEES2",
         "description": "",
         "website": "https://ecoprotech.world/",
         "communities": {},
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x35c59bf2aa7ecb5a57fb011a4e763da6bae61445.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x35c59bf2aa7ecb5a57fb011a4e763da6bae61445.png"
     },
-    "0x37ac97f15e5e98d26f22e9920115b7ec655ac8a9.json": {
+    "0x37ac97f15e5e98d26f22e9920115b7ec655ac8a9": {
         "symbol": "KONG",
         "name": "KONG",
         "description": "Reward token for Voting & Staking MeKONG Masternodes ",
@@ -322,16 +322,16 @@
             "twitter": "https://twitter.com/TOMO_K0NG",
             "telegram": "https://t.me/Tomo_Kong"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x37ac97f15e5e98d26f22e9920115b7ec655ac8a9.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x37ac97f15e5e98d26f22e9920115b7ec655ac8a9.png"
     },
-    "0x37c8c4fd1434de2d50be39079c14070172a3838f.json": {
+    "0x37c8c4fd1434de2d50be39079c14070172a3838f": {
         "symbol": "OKGSG",
         "name": "OkGlobal Coin Singapore",
         "website": "https://okglobalcoinsg.com/",
         "communities": {},
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x37c8c4fd1434de2d50be39079c14070172a3838f.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x37c8c4fd1434de2d50be39079c14070172a3838f.png"
     },
-    "0x381b31409e4d220919b2cff012ed94d70135a59e.json": {
+    "0x381b31409e4d220919b2cff012ed94d70135a59e": {
         "symbol": "USDT",
         "name": "USDT",
         "website": "https://tomochain.com",
@@ -344,9 +344,9 @@
             "youtube": "https://www.youtube.com/channel/UCXZ2rmjM84qS80RCj6vQ1gw",
             "reddit": "https://www.reddit.com/r/Tomochain/"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x381b31409e4d220919b2cff012ed94d70135a59e.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x381b31409e4d220919b2cff012ed94d70135a59e.png"
     },
-    "0x38c9fa10403d6f6e0f61790653d8af5f67ad9fb6.json": {
+    "0x38c9fa10403d6f6e0f61790653d8af5f67ad9fb6": {
         "symbol": "PLite",
         "name": "PUFFIN LITE",
         "description": "PLite Will be go to make a social media apps . Where People Can Earn Plite Token By Like,Comment, And Post .\nThis Apps Will Be Lunched on November 2021 . This Apps Is now Under buildup . After Build The Apps will Be Go for test For 1 Month. Then Apps Will be publish on playstore And Appstore",
@@ -357,9 +357,9 @@
             "youtube": "https://youtube.com/c/PuffinLite",
             "twitter": "https://twitter.com/puffinlite"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x38c9fa10403d6f6e0f61790653d8af5f67ad9fb6.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x38c9fa10403d6f6e0f61790653d8af5f67ad9fb6.png"
     },
-    "0x3903d7416c075379e767291863c180487f897114.json": {
+    "0x3903d7416c075379e767291863c180487f897114": {
         "symbol": "PAX",
         "name": "Tomo wrapped Paxos Standard (PAX)",
         "description": "This is a Tomo wrapped version of Paxos Standard (PAX). Which is a fully collateralized US Dollar stablecoin developed by Paxos on Ethereum network.",
@@ -371,9 +371,9 @@
             "coinmarketcap": "https://coinmarketcap.com/currencies/paxos-standard/",
             "coingecko": "https://www.coingecko.com/en/coins/paxos-standard"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x3903d7416c075379e767291863c180487f897114.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x3903d7416c075379e767291863c180487f897114.png"
     },
-    "0x39dd9bd193b31ff40401d57ee907183b351fa5ce.json": {
+    "0x39dd9bd193b31ff40401d57ee907183b351fa5ce": {
         "symbol": "LINK",
         "name": "ChainLink",
         "description": "Blockchain Oracles for Connected Smart Contracts",
@@ -389,9 +389,9 @@
             "coinmarketcap": "https://coinmarketcap.com/currencies/chainlink/",
             "coingecko": "https://www.coingecko.com/en/coins/chainlink"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x39dd9bd193b31ff40401d57ee907183b351fa5ce.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x39dd9bd193b31ff40401d57ee907183b351fa5ce.png"
     },
-    "0x3c6475f8b4200e0a6acf5aeb2b44b769a3d37216.json": {
+    "0x3c6475f8b4200e0a6acf5aeb2b44b769a3d37216": {
         "symbol": "TIIM",
         "name": "TriipMiles",
         "description": "TriipMiles's token",
@@ -407,9 +407,9 @@
             "bitcointalk": "https://bitcointalk.org/index.php?topic=3210593.0",
             "blog": "https://share.triip.me"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x3c6475f8b4200e0a6acf5aeb2b44b769a3d37216.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x3c6475f8b4200e0a6acf5aeb2b44b769a3d37216.png"
     },
-    "0x480e5a3a032a41098fce300a25b0c449c7aa83eb.json": {
+    "0x480e5a3a032a41098fce300a25b0c449c7aa83eb": {
         "symbol": "TWN",
         "name": "TomoWin",
         "website": "https://tomowin.app",
@@ -418,9 +418,9 @@
             "telegram": "https://t.me/TomoWin",
             "twitter": "https://twitter.com/TomoWinApp"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x480e5a3a032a41098fce300a25b0c449c7aa83eb.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x480e5a3a032a41098fce300a25b0c449c7aa83eb.png"
     },
-    "0x4cd6cfb32a8699386e65b591f02819e34e4e4b4c.json": {
+    "0x4cd6cfb32a8699386e65b591f02819e34e4e4b4c": {
         "symbol": "OM",
         "name": "MANTRA DAO",
         "description": "MANTRA DAO is a community-governed DeFi platform focusing on Staking, Lending, and Governance.",
@@ -432,9 +432,9 @@
             "github": "https://github.com/Mantradao",
             "coinmarketcap": "https://coinmarketcap.com/currencies/mantra-dao/"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x4cd6cfb32a8699386e65b591f02819e34e4e4b4c.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x4cd6cfb32a8699386e65b591f02819e34e4e4b4c.png"
     },
-    "0x4ceed28f5cc2bd5a13e0a688eda209970da06f43.json": {
+    "0x4ceed28f5cc2bd5a13e0a688eda209970da06f43": {
         "symbol": "GUSD",
         "name": "Gemini Dollar",
         "website": "https://gemini.com/dollar/",
@@ -447,9 +447,9 @@
             "coinmarketcap": "https://coinmarketcap.com/currencies/gemini-dollar/",
             "coingecko": "https://www.coingecko.com/en/coins/gemini-dollar"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x4ceed28f5cc2bd5a13e0a688eda209970da06f43.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x4ceed28f5cc2bd5a13e0a688eda209970da06f43.png"
     },
-    "0x4d0b28e81b924ee46d0f510ff246f8ecf354b8a2.json": {
+    "0x4d0b28e81b924ee46d0f510ff246f8ecf354b8a2": {
         "symbol": "NCS",
         "name": "Necostock",
         "description": "A token to purchase Nextcosplayer arts.",
@@ -458,18 +458,18 @@
             "instagram": "https://www.instagram.com/nextcosplayer2020/",
             "twitter": "https://twitter.com/Nextcosplayer"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x4d0b28e81b924ee46d0f510ff246f8ecf354b8a2.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x4d0b28e81b924ee46d0f510ff246f8ecf354b8a2.png"
     },
-    "0x4dd28c75b28f05df193b4e1bbb61cd186eb968c6.json": {
+    "0x4dd28c75b28f05df193b4e1bbb61cd186eb968c6": {
         "symbol": "ORBYT",
         "name": "Orbyt Token",
         "website": "https://www.bitorb.com",
         "communities": {
             "twitter": "https://twitter.com/BitOrb_official"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x4dd28c75b28f05df193b4e1bbb61cd186eb968c6.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x4dd28c75b28f05df193b4e1bbb61cd186eb968c6.png"
     },
-    "0x4e6b60e8f1cfc4d1df9f09dfba38c4ba18a4fd17.json": {
+    "0x4e6b60e8f1cfc4d1df9f09dfba38c4ba18a4fd17": {
         "symbol": "EGWLP",
         "name": "EGW LP Token",
         "description": "EGW LP Token is for the liquidity providers who wish to provide liquidity to EGW tokens listed on LuaSwap. EGW LP Token manages the liquidity for the liquidity provider without the need for any technical knowledge. The EGW LP Token holder receives a fixed amount of EGW coins every month",
@@ -477,9 +477,9 @@
         "communities": {
             "twitter": "https://twitter.com/egwcapital"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x4e6b60e8f1cfc4d1df9f09dfba38c4ba18a4fd17.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x4e6b60e8f1cfc4d1df9f09dfba38c4ba18a4fd17.png"
     },
-    "0x503b2ddc059b81788fd1239561596614b27faade.json": {
+    "0x503b2ddc059b81788fd1239561596614b27faade": {
         "symbol": "WBTC",
         "name": "Wrapped BTC",
         "website": "https://www.wbtc.network",
@@ -490,9 +490,9 @@
             "coinmarketcap": "https://coinmarketcap.com/currencies/wrapped-bitcoin/",
             "coingecko": "https://www.coingecko.com/en/coins/wrapped-bitcoin/"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x503b2ddc059b81788fd1239561596614b27faade.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x503b2ddc059b81788fd1239561596614b27faade.png"
     },
-    "0x5080781e91237b6d7f026d5306b7233e26cd6c16.json": {
+    "0x5080781e91237b6d7f026d5306b7233e26cd6c16": {
         "symbol": "MLR",
         "name": "Mega Lottery",
         "description": "MLR Token TRC21 is used to pay ticket and rewards of Megamillions & Powerball US lottery at MegaLTR.com\nIt applies blockchain technology to buy tickets and receive rewards via smart contracts.",
@@ -503,9 +503,9 @@
             "github": "https://github.com/MegaltrLottery",
             "facebook": "https://www.facebook.com/MegaLTR"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x5080781e91237b6d7f026d5306b7233e26cd6c16.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x5080781e91237b6d7f026d5306b7233e26cd6c16.png"
     },
-    "0x512243ed55599001076261d4705eaa1e12f675c6.json": {
+    "0x512243ed55599001076261d4705eaa1e12f675c6": {
         "symbol": "UNFLD",
         "name": "UnfoldU Group",
         "description": "UnfoldU Group is into K-12 education and serves the emerging market of India. The company aims to redefine tuition by shifting personalized group classes onto the internet with the help of face-to-face classes and artificial intelligence. The token economics will be backed by the UNFLD coin. A student will pay and get rewardedin UNFLD coins.",
@@ -514,9 +514,9 @@
             "facebook": "https://www.facebook.com/UnfolduOfficial/",
             "twitter": "https://twitter.com/UnfolduOfficial"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x512243ed55599001076261d4705eaa1e12f675c6.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x512243ed55599001076261d4705eaa1e12f675c6.png"
     },
-    "0x525d9a4977c5d3af10d1ab05e58a4593c661845f.json": {
+    "0x525d9a4977c5d3af10d1ab05e58a4593c661845f": {
         "symbol": "GPXS",
         "name": "Gold Prime X SKR",
         "description": "Token Backed by Gold stable price equivalent to a 1 OZT ounce troy of Gold",
@@ -525,9 +525,9 @@
             "email": "enterprise@stablebank.net",
             "github": "https://github.com/stablebank"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x525d9a4977c5d3af10d1ab05e58a4593c661845f.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x525d9a4977c5d3af10d1ab05e58a4593c661845f.png"
     },
-    "0x54502fd92556e5e9839a629a5fffa8cc55ac4349.json": {
+    "0x54502fd92556e5e9839a629a5fffa8cc55ac4349": {
         "symbol": "WBC",
         "name": "WebbaCoin",
         "description": "WebbaCoin is a token that follows the requirement of Webba products, it supports all our projects: WSS, WCH, WFTP...",
@@ -536,9 +536,9 @@
             "twitter": "https://twitter.com/Webbacreative",
             "instagram": "https://www.instagram.com/webba_creative/"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x54502fd92556e5e9839a629a5fffa8cc55ac4349.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x54502fd92556e5e9839a629a5fffa8cc55ac4349.png"
     },
-    "0x559dacc62c55fb53ed52524474587b64d2b1d319.json": {
+    "0x559dacc62c55fb53ed52524474587b64d2b1d319": {
         "symbol": "ERSDL",
         "name": "UnFederalReserve",
         "website": "https://www.unfederalreserve.com/",
@@ -554,9 +554,9 @@
             "coinmarketcap": "https://coinmarketcap.com/currencies/unfederalreserve/",
             "coingecko": "https://www.coingecko.com/en/coins/unfederalreserve"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x559dacc62c55fb53ed52524474587b64d2b1d319.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x559dacc62c55fb53ed52524474587b64d2b1d319.png"
     },
-    "0x5d0cf2e1e0955ed2604fa0fde283ea23b63d49f8.json": {
+    "0x5d0cf2e1e0955ed2604fa0fde283ea23b63d49f8": {
         "symbol": "Vala",
         "name": "Vala",
         "description": "Global Marketplace with Zero Fees",
@@ -568,9 +568,9 @@
             "twitter": "https://twitter.com/vala_io",
             "facebook": "https://www.facebook.com/valamarketplace/"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x5d0cf2e1e0955ed2604fa0fde283ea23b63d49f8.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x5d0cf2e1e0955ed2604fa0fde283ea23b63d49f8.png"
     },
-    "0x5e55d0c59287f5f8d540ef0766ca3f3810c71b84.json": {
+    "0x5e55d0c59287f5f8d540ef0766ca3f3810c71b84": {
         "symbol": "PayFQ",
         "name": "PayFrequent",
         "description": "PayFrequent token",
@@ -581,9 +581,9 @@
             "twitter": "https://twitter.com/payfrequent",
             "facebook": "https://www.facebook.com/payfrequent/"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x5e55d0c59287f5f8d540ef0766ca3f3810c71b84.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x5e55d0c59287f5f8d540ef0766ca3f3810c71b84.png"
     },
-    "0x60985224f05d26900be7f3de195a1bc17d9fb95b.json": {
+    "0x60985224f05d26900be7f3de195a1bc17d9fb95b": {
         "symbol": "XCYB",
         "name": "XCYB",
         "description": "Build a social system that makes it easier for people to live.",
@@ -591,9 +591,9 @@
         "communities": {
             "facebook": "https://www.facebook.com/xcreation.co.jp/"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x60985224f05d26900be7f3de195a1bc17d9fb95b.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x60985224f05d26900be7f3de195a1bc17d9fb95b.png"
     },
-    "0x635ca1cefeae2c174da875c8f2d248c58022032e.json": {
+    "0x635ca1cefeae2c174da875c8f2d248c58022032e": {
         "symbol": "SCRP",
         "name": "ScorpSec Token",
         "description": "ScorpSec Official Token",
@@ -602,9 +602,9 @@
             "email": "info@scorpsec.co.za",
             "facebook": "https://www.facebook.com/scorpseckby"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x635ca1cefeae2c174da875c8f2d248c58022032e.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x635ca1cefeae2c174da875c8f2d248c58022032e.png"
     },
-    "0x64dc65aee1de6164e78996a5879c3726cbe5d6f1.json": {
+    "0x64dc65aee1de6164e78996a5879c3726cbe5d6f1": {
         "symbol": "KZN",
         "name": "KANZEN",
         "description": "Kanzen is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world.",
@@ -616,9 +616,9 @@
             "instagram": "https://www.instagram.com/kanzentomo/",
             "github": "https://github.com/KANZEN-KZN"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x64dc65aee1de6164e78996a5879c3726cbe5d6f1.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x64dc65aee1de6164e78996a5879c3726cbe5d6f1.png"
     },
-    "0x65626a877f94ec75b792fdc17aec91cd1076751e.json": {
+    "0x65626a877f94ec75b792fdc17aec91cd1076751e": {
         "symbol": "LIFE",
         "name": "Sunflower",
         "description": "Sunflower's native token",
@@ -630,9 +630,9 @@
             "instagram": "https://www.instagram.com/beautywords2016/",
             "pantograph": "https://profile.pantograph.app/communityId/5fe8d2bf0d17e2742dfd9eee"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x65626a877f94ec75b792fdc17aec91cd1076751e.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x65626a877f94ec75b792fdc17aec91cd1076751e.png"
     },
-    "0x661c18ff558f36aa94b9611eeb9af53424c400e4.json": {
+    "0x661c18ff558f36aa94b9611eeb9af53424c400e4": {
         "symbol": "FRONT",
         "name": "Frontier Token",
         "description": "A Chain-Agnostic DeFi Aggregation Layer",
@@ -641,17 +641,17 @@
             "telegram": "https://t.me/FrontierDotXYZ",
             "twitter": "https://twitter.com/FrontierDotXYZ"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x661c18ff558f36aa94b9611eeb9af53424c400e4.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x661c18ff558f36aa94b9611eeb9af53424c400e4.png"
     },
-    "0x6806cf534e79b539d7945f4e09b235ca861cde7d.json": {
+    "0x6806cf534e79b539d7945f4e09b235ca861cde7d": {
         "symbol": "OKGUS",
         "name": "OkGlobal Coin USA",
         "description": "Security coin issued by OkGlobal Coin USA",
         "website": "http://www.okglobalcoin.com/",
         "communities": {},
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x6806cf534e79b539d7945f4e09b235ca861cde7d.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x6806cf534e79b539d7945f4e09b235ca861cde7d.png"
     },
-    "0x6c87c816544fe3eb608a5dbd25f0bbbbabdd8cdf.json": {
+    "0x6c87c816544fe3eb608a5dbd25f0bbbbabdd8cdf": {
         "symbol": "REN",
         "name": "REN",
         "description": "Liquidity, unchained",
@@ -665,9 +665,9 @@
             "coinmarketcap": "https://coinmarketcap.com/currencies/ren/",
             "coingecko": "https://www.coingecko.com/en/coins/ren"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x6c87c816544fe3eb608a5dbd25f0bbbbabdd8cdf.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x6c87c816544fe3eb608a5dbd25f0bbbbabdd8cdf.png"
     },
-    "0x6ca97401da035e42f4803709e94118260415b6ad.json": {
+    "0x6ca97401da035e42f4803709e94118260415b6ad": {
         "symbol": "CBC",
         "name": "Colombo Coin",
         "website": "http://crmtokens.com.br/colombocoin",
@@ -675,9 +675,9 @@
             "facebook": "https://www.facebook.com/CamisariaColombo",
             "instagram": "https://www.instagram.com/camisariacolombo_oficial/"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x6ca97401da035e42f4803709e94118260415b6ad.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x6ca97401da035e42f4803709e94118260415b6ad.png"
     },
-    "0x6cf97fe869beb5dbb2608a2c531b0db8aa899639.json": {
+    "0x6cf97fe869beb5dbb2608a2c531b0db8aa899639": {
         "symbol": "EGWA",
         "name": "EGW Academy",
         "description": "EGW Academy provides blockchain and crypto education to millions of students worldwide. A student pays in cash and receives EGWA coins in exchange for it of the equivalent value at the end of his course tenure. A student then sells the coin to the next student who is looking to become crypto literate. The entire internal token economy is supported by EGWA coins.",
@@ -685,9 +685,9 @@
         "communities": {
             "twitter": "https://twitter.com/egwacademy"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x6cf97fe869beb5dbb2608a2c531b0db8aa899639.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x6cf97fe869beb5dbb2608a2c531b0db8aa899639.png"
     },
-    "0x6e27b25a6a85028e2fc00c3040b9fe3a952b5d5f.json": {
+    "0x6e27b25a6a85028e2fc00c3040b9fe3a952b5d5f": {
         "symbol": "TPC",
         "name": "Tomo Poker Chips",
         "description": "Token used to play with on Tomo Poker dApp",
@@ -697,9 +697,9 @@
             "telegram": "https://t.me/tomopoker",
             "github": "https://github.com/xchng/tomo.poker"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x6e27b25a6a85028e2fc00c3040b9fe3a952b5d5f.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x6e27b25a6a85028e2fc00c3040b9fe3a952b5d5f.png"
     },
-    "0x6f1046758b3bcf667816deeac40e6bd1fbdcf830.json": {
+    "0x6f1046758b3bcf667816deeac40e6bd1fbdcf830": {
         "symbol": "LINA",
         "name": "Linear Token",
         "description": "A Decentralized Delta-One Asset Protocol",
@@ -711,9 +711,9 @@
             "linkedin": "https://www.linkedin.com/company/linearfinance/",
             "discord": "https://discord.com/invite/emFXWaq"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x6f1046758b3bcf667816deeac40e6bd1fbdcf830.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x6f1046758b3bcf667816deeac40e6bd1fbdcf830.png"
     },
-    "0x71f910d274f4290aec330ddb1aaac156a6bfbf63.json": {
+    "0x71f910d274f4290aec330ddb1aaac156a6bfbf63": {
         "symbol": "MMC",
         "name": "Money Making Coin",
         "description": "MoneyMaking.AI external token",
@@ -726,9 +726,9 @@
             "facebook": "https://fb.me/moneymakingai",
             "github": "https://github.com/MoneyMakingAI"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x71f910d274f4290aec330ddb1aaac156a6bfbf63.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x71f910d274f4290aec330ddb1aaac156a6bfbf63.png"
     },
-    "0x72527bf784401db1a50ee4002c40e8d4a3165352.json": {
+    "0x72527bf784401db1a50ee4002c40e8d4a3165352": {
         "symbol": "MKR",
         "name": "Maker",
         "website": "https://makerdao.com/",
@@ -740,9 +740,9 @@
             "coinmarketcap": "https://coinmarketcap.com/currencies/maker/",
             "coingecko": "https://www.coingecko.com/en/coins/maker"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x72527bf784401db1a50ee4002c40e8d4a3165352.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x72527bf784401db1a50ee4002c40e8d4a3165352.png"
     },
-    "0x7262fa193e9590b2e075c3c16170f3f2f32f5c74.json": {
+    "0x7262fa193e9590b2e075c3c16170f3f2f32f5c74": {
         "symbol": "LUA",
         "name": "LuaToken",
         "description": "",
@@ -753,9 +753,9 @@
             "twitter": "https://twitter.com/LuaSwap",
             "medium": "https://medium.com/luaswap"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x7262fa193e9590b2e075c3c16170f3f2f32f5c74.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x7262fa193e9590b2e075c3c16170f3f2f32f5c74.png"
     },
-    "0x73c4af469bfd2f096700c60040ac70288cd72cbb.json": {
+    "0x73c4af469bfd2f096700c60040ac70288cd72cbb": {
         "symbol": "XCJC",
         "name": "XCJCoupon",
         "description": "Users will receive 1 daily bonus whenever they enter the app every day. This bonus will be used to play Gacha to get digital cards of idols",
@@ -765,9 +765,9 @@
             "twitter": "https://twitter.com/paparazzi_coin",
             "medium": "https://medium.com/@PAPARAZZI"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x73c4af469bfd2f096700c60040ac70288cd72cbb.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x73c4af469bfd2f096700c60040ac70288cd72cbb.png"
     },
-    "0x7489063369a3f994f877118a8ae41325c0f12343.json": {
+    "0x7489063369a3f994f877118a8ae41325c0f12343": {
         "symbol": "Husky",
         "name": "Husky Coin",
         "description": "The Fastest Dog Coin",
@@ -775,9 +775,9 @@
         "communities": {
             "telegram": "https://t.me/huskycoinchannel"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x7489063369a3f994f877118a8ae41325c0f12343.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x7489063369a3f994f877118a8ae41325c0f12343.png"
     },
-    "0x771b1f2dd788accc76433db5787f9d3afece0103.json": {
+    "0x771b1f2dd788accc76433db5787f9d3afece0103": {
         "symbol": "DAI",
         "name": "Dai",
         "website": "https://makerdao.com/",
@@ -791,9 +791,9 @@
             "coinmarketcap": "https://coinmarketcap.com/currencies/multi-collateral-dai/",
             "coingecko": "https://www.coingecko.com/en/coins/dai"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x771b1f2dd788accc76433db5787f9d3afece0103.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x771b1f2dd788accc76433db5787f9d3afece0103.png"
     },
-    "0x7cd82dca3a18b6784c44d28f7be0f74d1fc2048a.json": {
+    "0x7cd82dca3a18b6784c44d28f7be0f74d1fc2048a": {
         "symbol": "PIE",
         "name": "DeFiPie",
         "description": "DeFiPie COMBINES Lending-as-a-Service (LaaS), Liquidity Pool-as-a-Service (LPaaS) AND Staking-as-a-Service (SaaS) IN ONE PLATFORM.",
@@ -809,16 +809,16 @@
             "coingecko": "https://www.coingecko.com/en/coins/defipie/",
             "file-text": "https://defipie.com/wp.pdf"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x7cd82dca3a18b6784c44d28f7be0f74d1fc2048a.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x7cd82dca3a18b6784c44d28f7be0f74d1fc2048a.png"
     },
-    "0x801769a2e34b4d68e935cf9d85c8a6d095bb654a.json": {
+    "0x801769a2e34b4d68e935cf9d85c8a6d095bb654a": {
         "symbol": "LEAF",
         "name": "LeafChain",
         "description": "LeafChain is a scale able blockchain bluild under tomochain network or trc21 network consensus and used commercially by companies globally",
         "communities": {},
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x801769a2e34b4d68e935cf9d85c8a6d095bb654a.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x801769a2e34b4d68e935cf9d85c8a6d095bb654a.png"
     },
-    "0x8103bb77ed2035b5da9a3a65d9c313cb6ee41dbd.json": {
+    "0x8103bb77ed2035b5da9a3a65d9c313cb6ee41dbd": {
         "symbol": "TAB",
         "name": "TAB BANK",
         "description": "the token using for payment online, and decentralized finance",
@@ -827,9 +827,9 @@
             "telegram": "https://t.me/joinchat/HOOubhpHap2fyMgs6QiMWw",
             "twitter": "https://twitter.com/OrgTabank"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x8103bb77ed2035b5da9a3a65d9c313cb6ee41dbd.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x8103bb77ed2035b5da9a3a65d9c313cb6ee41dbd.png"
     },
-    "0x81d75d448d6b19d2e95c45814d8efb34289a4b27.json": {
+    "0x81d75d448d6b19d2e95c45814d8efb34289a4b27": {
         "symbol": "BIP",
         "name": "BipCash",
         "description": "Near-zero fee transactional system.",
@@ -837,9 +837,9 @@
         "communities": {
             "twitter": "https://twitter.com/bipcash1"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x81d75d448d6b19d2e95c45814d8efb34289a4b27.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x81d75d448d6b19d2e95c45814d8efb34289a4b27.png"
     },
-    "0x833416c01362659d9f9c2402ad1c110b3a4ed267.json": {
+    "0x833416c01362659d9f9c2402ad1c110b3a4ed267": {
         "symbol": "DTE",
         "name": "Data Exchange",
         "description": "Data Exchange is the TRC21 token of the Datadex decentralized exchange",
@@ -847,16 +847,16 @@
         "communities": {
             "github": "https://github.com/Data-DEX"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x833416c01362659d9f9c2402ad1c110b3a4ed267.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x833416c01362659d9f9c2402ad1c110b3a4ed267.png"
     },
-    "0x839df27e911a0a02034c5383c590df6b9ab7fa45.json": {
+    "0x839df27e911a0a02034c5383c590df6b9ab7fa45": {
         "symbol": "BM",
         "name": "Batman",
         "website": "https://en.wikipedia.org/wiki/Batman",
         "communities": {},
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x839df27e911a0a02034c5383c590df6b9ab7fa45.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x839df27e911a0a02034c5383c590df6b9ab7fa45.png"
     },
-    "0x8865280c31b8cbc7b96ce48ad52c122e6d82806a.json": {
+    "0x8865280c31b8cbc7b96ce48ad52c122e6d82806a": {
         "symbol": "SHARK",
         "name": "SharkToshi",
         "description": "Shark's Don't Swim Backwards",
@@ -865,9 +865,9 @@
             "telegram": "https://t.me/ToshiShark",
             "twitter": "https://twitter.com/ToshiSharks"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x8865280c31b8cbc7b96ce48ad52c122e6d82806a.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x8865280c31b8cbc7b96ce48ad52c122e6d82806a.png"
     },
-    "0x8b10de2f93ed216386f7ee98d118a6a681241326.json": {
+    "0x8b10de2f93ed216386f7ee98d118a6a681241326": {
         "symbol": "POINT",
         "name": "PantoPoint",
         "website": "https://pantograph.io",
@@ -879,9 +879,9 @@
             "instagram": "https://instagram.com/pantograph_io",
             "reddit": "https://www.reddit.com/r/Pantograph"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x8b10de2f93ed216386f7ee98d118a6a681241326.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x8b10de2f93ed216386f7ee98d118a6a681241326.png"
     },
-    "0x8b17e443b136dd446e1f57c8a8a925d8a058eb85.json": {
+    "0x8b17e443b136dd446e1f57c8a8a925d8a058eb85": {
         "symbol": "THETA",
         "name": "Theta Network",
         "website": "https://www.thetatoken.org/",
@@ -895,9 +895,9 @@
             "coinmarketcap": "https://coinmarketcap.com/currencies/theta/",
             "coingecko": "https://www.coingecko.com/en/coins/theta-network"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x8b17e443b136dd446e1f57c8a8a925d8a058eb85.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x8b17e443b136dd446e1f57c8a8a925d8a058eb85.png"
     },
-    "0x8f5f362a171d978bb9ee341e8f676ac720a2d536.json": {
+    "0x8f5f362a171d978bb9ee341e8f676ac720a2d536": {
         "symbol": "WAP",
         "name": "World Animal Protect",
         "description": "",
@@ -908,17 +908,17 @@
             "twitter": "https://twitter.com/movetheworld",
             "youtube": "https://www.youtube.com/AnimalProtection"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x8f5f362a171d978bb9ee341e8f676ac720a2d536.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x8f5f362a171d978bb9ee341e8f676ac720a2d536.png"
     },
-    "0x905f67f5b0bae2615d332ee22a896f088b305d90.json": {
+    "0x905f67f5b0bae2615d332ee22a896f088b305d90": {
         "symbol": "SWTCH",
         "name": "SWITCH stable coin ",
         "description": "Stable coin issued by OkGlobal Coin SWITCH Pte. Ltd.",
         "website": "http://www.okglobalcoinsg.com/",
         "communities": {},
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x905f67f5b0bae2615d332ee22a896f088b305d90.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x905f67f5b0bae2615d332ee22a896f088b305d90.png"
     },
-    "0x936b1f7290c8cfc57e31d7e4a301d5f9fa5b0cd8.json": {
+    "0x936b1f7290c8cfc57e31d7e4a301d5f9fa5b0cd8": {
         "symbol": "24x7",
         "name": "24x7 Crypto",
         "description": "24x7 crypto token",
@@ -931,9 +931,9 @@
             "facebook": "https://www.facebook.com/24x7crypto/",
             "github": "https://github.com/24x7crypto"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x936b1f7290c8cfc57e31d7e4a301d5f9fa5b0cd8.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x936b1f7290c8cfc57e31d7e4a301d5f9fa5b0cd8.png"
     },
-    "0x943efd2571dc83e4eebb55a4b1e82352efe2ac51.json": {
+    "0x943efd2571dc83e4eebb55a4b1e82352efe2ac51": {
         "symbol": "BNB",
         "name": "Binance Coin",
         "description": "Binance Coin",
@@ -949,9 +949,9 @@
             "coinmarketcap": "https://coinmarketcap.com/currencies/binance-coin/",
             "coingecko": "https://www.coingecko.com/en/coins/binance-coin"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x943efd2571dc83e4eebb55a4b1e82352efe2ac51.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x943efd2571dc83e4eebb55a4b1e82352efe2ac51.png"
     },
-    "0x96d0eac101ec3517a3d06aa441a72e1eb6e27430.json": {
+    "0x96d0eac101ec3517a3d06aa441a72e1eb6e27430": {
         "symbol": "BQST",
         "name": "Bequest",
         "website": "https://www.bequestholdings.co",
@@ -959,9 +959,9 @@
         "communities": {
             "twitter": "https://mobile.twitter.com/bequestholdings"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x96d0eac101ec3517a3d06aa441a72e1eb6e27430.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x96d0eac101ec3517a3d06aa441a72e1eb6e27430.png"
     },
-    "0x98e441b39c34c2d93a2015784d6f80118654948e.json": {
+    "0x98e441b39c34c2d93a2015784d6f80118654948e": {
         "symbol": "%PDX",
         "name": "STAKE PDX",
         "description": "Show the PDX occupancy and percentage of profit share from Pantograph DEX",
@@ -973,9 +973,9 @@
             "youtube": "https://www.youtube.com/c/BacoorInc",
             "reddit": "https://www.reddit.com/r/Pantograph"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x98e441b39c34c2d93a2015784d6f80118654948e.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x98e441b39c34c2d93a2015784d6f80118654948e.png"
     },
-    "0x9befa435e06249d0f987dc546a43b7ad8d2ecbec.json": {
+    "0x9befa435e06249d0f987dc546a43b7ad8d2ecbec": {
         "symbol": "BUSD",
         "name": "Binance USD",
         "website": "https://www.paxos.com/busd/",
@@ -988,9 +988,9 @@
             "coinmarketcap": "https://coinmarketcap.com/currencies/binance-usd/",
             "coingecko": "https://www.coingecko.com/en/coins/binance-usd"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x9befa435e06249d0f987dc546a43b7ad8d2ecbec.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x9befa435e06249d0f987dc546a43b7ad8d2ecbec.png"
     },
-    "0x9de0fd932fed363bf8b6f52f9508034782014e22.json": {
+    "0x9de0fd932fed363bf8b6f52f9508034782014e22": {
         "symbol": "COMP",
         "name": "Compound",
         "website": "https://compound.finance",
@@ -1002,16 +1002,16 @@
             "coinmarketcap": "https://coinmarketcap.com/currencies/compound/",
             "coingecko": "https://www.coingecko.com/en/coins/compound"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x9de0fd932fed363bf8b6f52f9508034782014e22.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0x9de0fd932fed363bf8b6f52f9508034782014e22.png"
     },
-    "0xa10622c7f7847c5e9f592f068b068d52e334bf2e.json": {
+    "0xa10622c7f7847c5e9f592f068b068d52e334bf2e": {
         "symbol": "OPA",
         "name": "Atropa",
         "description": "Atropa Chain",
         "website": "https://twee.se",
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xa10622c7f7847c5e9f592f068b068d52e334bf2e.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xa10622c7f7847c5e9f592f068b068d52e334bf2e.png"
     },
-    "0xa117ea1c0c85cef648df2b6f40e50bb5475c228d.json": {
+    "0xa117ea1c0c85cef648df2b6f40e50bb5475c228d": {
         "symbol": "FLETA",
         "name": "FletaToken",
         "description": "The Platform for Sustainable DApp Ecosystem",
@@ -1030,9 +1030,9 @@
             "coinmarketcap": "https://coinmarketcap.com/currencies/fleta",
             "coingecko": "https://www.coingecko.com/en/coins/fleta"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xa117ea1c0c85cef648df2b6f40e50bb5475c228d.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xa117ea1c0c85cef648df2b6f40e50bb5475c228d.png"
     },
-    "0xa48e7b76f9c0a6412f842253458af7d3b6caa70d.json": {
+    "0xa48e7b76f9c0a6412f842253458af7d3b6caa70d": {
         "symbol": "APM",
         "name": "apM Coin",
         "description": "Blockchain-powered Customer Rewards Management Platform",
@@ -1043,16 +1043,16 @@
             "medium": "https://medium.com/apmcoin",
             "github": "https://github.com/apmcoin"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xa48e7b76f9c0a6412f842253458af7d3b6caa70d.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xa48e7b76f9c0a6412f842253458af7d3b6caa70d.png"
     },
-    "0xa4f5a7d80e33be887546f6797d863efcac586712.json": {
+    "0xa4f5a7d80e33be887546f6797d863efcac586712": {
         "symbol": "BKR",
         "name": "Bikkuricoin",
         "description": "Cryptower's token",
         "website": "https://www.cryptower.org/",
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xa4f5a7d80e33be887546f6797d863efcac586712.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xa4f5a7d80e33be887546f6797d863efcac586712.png"
     },
-    "0xa7551ba0d52c763fb6f8866de63827aa593f20bc.json": {
+    "0xa7551ba0d52c763fb6f8866de63827aa593f20bc": {
         "symbol": "Hybrix",
         "name": "HY",
         "description": "One token on all chains. Technically borderless, not restricted to any single distributed ledger. All chains in one solution.",
@@ -1065,9 +1065,9 @@
             "bitcoin": "https://bitcointalk.org/index.php?topic=5230324.0",
             "linkedin": "https://www.linkedin.com/company/hybrixio"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xa7551ba0d52c763fb6f8866de63827aa593f20bc.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xa7551ba0d52c763fb6f8866de63827aa593f20bc.png"
     },
-    "0xab7e4ae99d7bfff4de8322ab915e9066857227f0.json": {
+    "0xab7e4ae99d7bfff4de8322ab915e9066857227f0": {
         "symbol": "KONG",
         "name": "KONG",
         "description": "Original Reward token for Staking with MeKONG Masternodes",
@@ -1075,9 +1075,9 @@
             "twitter": "https://twitter.com/TOMO_K0NG",
             "telegram": "https://t.me/Tomo_Kong"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xab7e4ae99d7bfff4de8322ab915e9066857227f0.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xab7e4ae99d7bfff4de8322ab915e9066857227f0.png"
     },
-    "0xadb6de8424f5aa36dccb929045a1d0bfb3724c5b.json": {
+    "0xadb6de8424f5aa36dccb929045a1d0bfb3724c5b": {
         "symbol": "COF",
         "name": "Coinfetti",
         "website": "https://www.coinfetti.io/",
@@ -1085,9 +1085,9 @@
         "communities": {
             "telegram": "t.me/coinfetti_io"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xadb6de8424f5aa36dccb929045a1d0bfb3724c5b.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xadb6de8424f5aa36dccb929045a1d0bfb3724c5b.png"
     },
-    "0xae44807d8a9ce4b30146437474ed6faaafa1b809.json": {
+    "0xae44807d8a9ce4b30146437474ed6faaafa1b809": {
         "symbol": "BTC",
         "name": "BTC",
         "website": "https://tomochain.com",
@@ -1100,17 +1100,17 @@
             "youtube": "https://www.youtube.com/channel/UCXZ2rmjM84qS80RCj6vQ1gw",
             "reddit": "https://www.reddit.com/r/Tomochain/"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xae44807d8a9ce4b30146437474ed6faaafa1b809.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xae44807d8a9ce4b30146437474ed6faaafa1b809.png"
     },
-    "0xaed8ece5554753d68e31541ca4321e0ee1ce4173.json": {
+    "0xaed8ece5554753d68e31541ca4321e0ee1ce4173": {
         "symbol": "KZF1",
         "name": "kazifier1",
         "description": "Blockchain Solution",
         "website": "https://bit.ly/Kazifier",
         "communities": {},
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xaed8ece5554753d68e31541ca4321e0ee1ce4173.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xaed8ece5554753d68e31541ca4321e0ee1ce4173.png"
     },
-    "0xaf95193df0e67b3f49c2820d0d86f5e6b8e1770f.json": {
+    "0xaf95193df0e67b3f49c2820d0d86f5e6b8e1770f": {
         "symbol": "TFI",
         "name": "TOMOFINANCE",
         "description": "TFI is a TRC-21 token that will be rewarded to users whenever they Payback TAI, partly or entirely",
@@ -1119,17 +1119,17 @@
             "twitter": "https://twitter.com/TomoFinance",
             "medium": "https://tomofinance.medium.com/"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xaf95193df0e67b3f49c2820d0d86f5e6b8e1770f.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xaf95193df0e67b3f49c2820d0d86f5e6b8e1770f.png"
     },
-    "0xb05620ccb8e6adec2d6b80dde408b690d7f80b7a.json": {
+    "0xb05620ccb8e6adec2d6b80dde408b690d7f80b7a": {
         "symbol": "XCJ",
         "name": "XCJ",
         "description": "When the market is opened, user this use credits card to purchase this token to trade for digital cards",
         "website": "https://jo1digitaltradingcards.com/",
         "communities": {},
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xb05620ccb8e6adec2d6b80dde408b690d7f80b7a.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xb05620ccb8e6adec2d6b80dde408b690d7f80b7a.png"
     },
-    "0xb1b4615508528de75012e38a0e1c07e0143c0c5d.json": {
+    "0xb1b4615508528de75012e38a0e1c07e0143c0c5d": {
         "symbol": "LIKE",
         "name": "Loyalty Inspiration Token",
         "description": "Loyalty Inspiration Token",
@@ -1138,9 +1138,9 @@
             "email": "info@cyphermines.io",
             "telegram": "https://t.me/tomochainthailand"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xb1b4615508528de75012e38a0e1c07e0143c0c5d.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xb1b4615508528de75012e38a0e1c07e0143c0c5d.png"
     },
-    "0xb2444519f4653831b097b388d985ab3fdd5d600e.json": {
+    "0xb2444519f4653831b097b388d985ab3fdd5d600e": {
         "symbol": "TAI",
         "name": "TAI",
         "description": "TAI is a TRC-21 token acting as Stablecoin. Users generate TAI by depositing collateral assets into TomoFinance.",
@@ -1149,9 +1149,9 @@
             "twitter": "https://twitter.com/TomoFinance",
             "medium": "https://tomofinance.medium.com/"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xb2444519f4653831b097b388d985ab3fdd5d600e.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xb2444519f4653831b097b388d985ab3fdd5d600e.png"
     },
-    "0xb293bdb9d427b4e759b55f36597a39ec4942a360.json": {
+    "0xb293bdb9d427b4e759b55f36597a39ec4942a360": {
         "symbol": "sTFI",
         "name": "sTFI",
         "description": "sTFI is received when users stake TFI into the Masternodes system. Staking rewards are calculated according to the proportion of users' sTFI within the total amount of sTFI",
@@ -1160,9 +1160,9 @@
             "twitter": "https://twitter.com/TomoFinance",
             "medium": "https://tomofinance.medium.com/"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xb293bdb9d427b4e759b55f36597a39ec4942a360.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xb293bdb9d427b4e759b55f36597a39ec4942a360.png"
     },
-    "0xb3acef61c7926002b62f45f7c352ff561b19ad52.json": {
+    "0xb3acef61c7926002b62f45f7c352ff561b19ad52": {
         "symbol": "DXD",
         "name": "DXdao",
         "description": "The DXdao is a decentralized organization initialized in May of 2019 and has over 400 unique stakeholder addresses. It develops, governs, and grows DeFi protocols and products. Owned and operated by the community, the DXdao has the potential to significantly scale its membership",
@@ -1177,9 +1177,9 @@
             "coinmarketcap": "https://coinmarketcap.com/currencies/dxdao/",
             "coingecko": "https://www.coingecko.com/en/coins/dxdao/"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xb3acef61c7926002b62f45f7c352ff561b19ad52.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xb3acef61c7926002b62f45f7c352ff561b19ad52.png"
     },
-    "0xba307d812882e0494b2d43e86402dd084735f28f.json": {
+    "0xba307d812882e0494b2d43e86402dd084735f28f": {
         "symbol": "MHG",
         "name": "MY HOME GROUP",
         "description": "MHG Token of the holding company My Home Group. MHG holders can use it to pay when shopping at MHG furniture stores globally.",
@@ -1187,9 +1187,9 @@
         "communities": {
             "facebook": "https://www.facebook.com/MY-HOME-GROUP-111345280735237/"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xba307d812882e0494b2d43e86402dd084735f28f.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xba307d812882e0494b2d43e86402dd084735f28f.png"
     },
-    "0xc01643ac912b6a8ffc50cf8c1390934a6142bc91.json": {
+    "0xc01643ac912b6a8ffc50cf8c1390934a6142bc91": {
         "symbol": "SRM",
         "name": "Serum",
         "description": "Serum is the world's first completely decentralized derivatives exchange with trustless cross-chain trading brought to you by Project Serum, in collaboration with a consortium of crypto trading and DeFi experts. While we built the Serum protocol, it is permissionless – we do not hold special power anymore. It is up to you, the crypto community, to use it as you will.",
@@ -1201,9 +1201,9 @@
             "discord": "https://discord.com/invite/MxZFT4v",
             "weibo": "https://weibo.com/u/7483904107"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xc01643ac912b6a8ffc50cf8c1390934a6142bc91.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xc01643ac912b6a8ffc50cf8c1390934a6142bc91.png"
     },
-    "0xc28194b773ce7b4d74c87e551afe991bd49a1d4e.json": {
+    "0xc28194b773ce7b4d74c87e551afe991bd49a1d4e": {
         "symbol": "IDRP",
         "name": "IDR Private",
         "description": "IDR Private is issued by PT Rupiah Digital Indonesia, a legal company in Republic of Indonesia. IDR Private (IDRP) is a smart service using blockchain technology for asset security. The assets guarantor of IDRP is the government-appointed Margin Depositing Bank.",
@@ -1213,9 +1213,9 @@
             "linkedin": "https://www.linkedin.com/company/pt-rupiah-digital-indonesia/",
             "instagram": "https://www.instagram.com/idrp.io/"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xc28194b773ce7b4d74c87e551afe991bd49a1d4e.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xc28194b773ce7b4d74c87e551afe991bd49a1d4e.png"
     },
-    "0xc43a2df23dafacb9106ab239896599b705e2e67e.json": {
+    "0xc43a2df23dafacb9106ab239896599b705e2e67e": {
         "symbol": "VNDC",
         "name": "VNDC",
         "description": "VNDC stablecoin",
@@ -1225,9 +1225,9 @@
             "twitter": "https://twitter.com/vndcstable",
             "facebook": "https://www.facebook.com/vndc.io"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xc43a2df23dafacb9106ab239896599b705e2e67e.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xc43a2df23dafacb9106ab239896599b705e2e67e.png"
     },
-    "0xc7f08a11f571b38a402d77bc1e5a097d3561f239.json": {
+    "0xc7f08a11f571b38a402d77bc1e5a097d3561f239": {
         "symbol": "RSC",
         "name": "RSCOIN",
         "description": "RSCOIN is an open source, global payment network that is fully decentralized without any central authorities. Mathematics secures the network and empowers individuals to control their own finances. With substantial industry support, trade volume and liquidity",
@@ -1237,9 +1237,9 @@
             "telegram": "https://t.me/RSCOIN1",
             "twitter": "https://twitter.com/RSCOIN1"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xc7f08a11f571b38a402d77bc1e5a097d3561f239.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xc7f08a11f571b38a402d77bc1e5a097d3561f239.png"
     },
-    "0xc809a65564d151606f2c6e10d523be9b3a108765.json": {
+    "0xc809a65564d151606f2c6e10d523be9b3a108765": {
         "symbol": "SLSH",
         "name": "Slash",
         "description": "New Token for all User-content Based on TomoChain",
@@ -1254,9 +1254,9 @@
             "facebook": "https://www.facebook.com/SlashFinancial/",
             "github": "https://github.com/slashfinancial"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xc809a65564d151606f2c6e10d523be9b3a108765.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xc809a65564d151606f2c6e10d523be9b3a108765.png"
     },
-    "0xcca4e6302510d555b654b3eab9c0fcb223bcfdf0.json": {
+    "0xcca4e6302510d555b654b3eab9c0fcb223bcfdf0": {
         "symbol": "USDC",
         "name": "Tomo wrapped USD Coin (USDC)",
         "description": "This is a Tomo wrapped version of USD Coin (USDC), which is a fully collateralized US Dollar stablecoin developed by CENTRE on Ethereum network.",
@@ -1270,9 +1270,9 @@
             "coinmarketcap": "https://coinmarketcap.com/currencies/usd-coin/",
             "coingecko": "https://www.coingecko.com/en/coins/usd-coin"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xcca4e6302510d555b654b3eab9c0fcb223bcfdf0.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xcca4e6302510d555b654b3eab9c0fcb223bcfdf0.png"
     },
-    "0xccdc431e7c13798177f2f8eb6b4136df894221d6.json": {
+    "0xccdc431e7c13798177f2f8eb6b4136df894221d6": {
         "symbol": "WBTC",
         "name": "Wrapped Bitcoin",
         "website": "https://www.wbtc.network/",
@@ -1283,9 +1283,9 @@
             "coinmarketcap": "https://coinmarketcap.com/currencies/wrapped-bitcoin/",
             "coingecko": "https://www.coingecko.com/en/coins/wrapped-bitcoin"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xccdc431e7c13798177f2f8eb6b4136df894221d6.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xccdc431e7c13798177f2f8eb6b4136df894221d6.png"
     },
-    "0xcd13d223e5257c04a1943dedae7fa1cecfd8de05.json": {
+    "0xcd13d223e5257c04a1943dedae7fa1cecfd8de05": {
         "symbol": "SUSHI",
         "name": "SushiSwap",
         "website": "https://sushiswap.org/",
@@ -1297,9 +1297,9 @@
             "coinmarketcap": "https://coinmarketcap.com/currencies/sushiswap/",
             "coingecko": "https://www.coingecko.com/en/coins/sushi"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xcd13d223e5257c04a1943dedae7fa1cecfd8de05.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xcd13d223e5257c04a1943dedae7fa1cecfd8de05.png"
     },
-    "0xcd6bbf36b55e77921ca988247d487e861fcc2a2d.json": {
+    "0xcd6bbf36b55e77921ca988247d487e861fcc2a2d": {
         "symbol": "TMCH",
         "name": "TOMO CASH ",
         "website": "https://www.tomocash.com",
@@ -1309,17 +1309,17 @@
             "twitter": "https://twitter.com/tomo_cash",
             "youtube": "https://www.youtube.com/channel/UCBXfESaTDOVvIsaJKwmYJ-Q?disable_polymer=true"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xcd6bbf36b55e77921ca988247d487e861fcc2a2d.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xcd6bbf36b55e77921ca988247d487e861fcc2a2d.png"
     },
-    "0xce1df960b388622a3919bd5070bad61d227a2a79.json": {
+    "0xce1df960b388622a3919bd5070bad61d227a2a79": {
         "symbol": "XCJB",
         "name": "XCJBonus",
         "description": "When the user refers the app to another user, both of them will receive this coupon to exchange for idol albums.",
         "website": "https://jo1digitaltradingcards.com/",
         "communities": {},
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xce1df960b388622a3919bd5070bad61d227a2a79.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xce1df960b388622a3919bd5070bad61d227a2a79.png"
     },
-    "0xce98172f4fc9ad02da607843a2c211b7834431da.json": {
+    "0xce98172f4fc9ad02da607843a2c211b7834431da": {
         "symbol": "PUSD",
         "name": "PayFrequent USD",
         "description": "PayFrequent USD token",
@@ -1330,9 +1330,9 @@
             "twitter": "https://twitter.com/payfrequent",
             "facebook": "https://www.facebook.com/payfrequent/"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xce98172f4fc9ad02da607843a2c211b7834431da.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xce98172f4fc9ad02da607843a2c211b7834431da.png"
     },
-    "0xcf0ab22a8b8dca3abce83a860ffb4953ad62de87.json": {
+    "0xcf0ab22a8b8dca3abce83a860ffb4953ad62de87": {
         "symbol": "ULG",
         "name": "Ultra Doge",
         "description": "Ultra Doge is the first meme token Trc21(Transfer ULG without pay tomo gas fee) created on Tomochain with super low fees supported by Community",
@@ -1341,9 +1341,9 @@
             "telegram": "https://t.me/UltraDogeOfficial",
             "github": "https://github.com/UltraDoge"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xcf0ab22a8b8dca3abce83a860ffb4953ad62de87.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xcf0ab22a8b8dca3abce83a860ffb4953ad62de87.png"
     },
-    "0xd1eed628023839521a4fd79a6fd96fe5740101c1.json": {
+    "0xd1eed628023839521a4fd79a6fd96fe5740101c1": {
         "symbol": "OTA",
         "name": "Online Travel Agent",
         "description": "OTA Token TRC21 can buy More than 2,000,000 travel products worldwide and can be payment with OTA Cryptocurrency . it is available in many languages and will having offer more millions reported accommodation listings, including over homes, apartments, and other unique places to stay. Wherever you want to go and whatever you want to do. Onlinetravelasia.com makes it easy and supports you with 24/7 customer support..",
@@ -1354,9 +1354,9 @@
             "twitter": "https://twitter.com/OnlineTravelAg2",
             "facebook": "https://facebook.com/onlinetravelasia"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xd1eed628023839521a4fd79a6fd96fe5740101c1.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xd1eed628023839521a4fd79a6fd96fe5740101c1.png"
     },
-    "0xd34130e90341c029ee50a315e6cadd14057e0715.json": {
+    "0xd34130e90341c029ee50a315e6cadd14057e0715": {
         "symbol": "TCN",
         "name": "Technolotin",
         "description": "Teaching computer programming to children and teenagers with coding robots and programming languages.",
@@ -1368,9 +1368,9 @@
             "twitter": "https://twitter.com/technolotin",
             "facebook": "https://www.facebook.com/technolotin"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xd34130e90341c029ee50a315e6cadd14057e0715.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xd34130e90341c029ee50a315e6cadd14057e0715.png"
     },
-    "0xd4718eb98633196c2f7b8daf800eed2b4c530635.json": {
+    "0xd4718eb98633196c2f7b8daf800eed2b4c530635": {
         "symbol": "LUNA",
         "name": "Terra",
         "website": "https://terra.money/",
@@ -1382,16 +1382,16 @@
             "coinmarketcap": "https://coinmarketcap.com/currencies/terra-luna/",
             "coingecko": "https://www.coingecko.com/en/coins/terra-luna"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xd4718eb98633196c2f7b8daf800eed2b4c530635.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xd4718eb98633196c2f7b8daf800eed2b4c530635.png"
     },
-    "0xd56a0d91acf73f7a2441f4348dfb412592aaad12.json": {
+    "0xd56a0d91acf73f7a2441f4348dfb412592aaad12": {
         "symbol": "FTC",
         "name": "Future Coin",
         "description": "online shopping ,E-commerce",
         "communities": {},
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xd56a0d91acf73f7a2441f4348dfb412592aaad12.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xd56a0d91acf73f7a2441f4348dfb412592aaad12.png"
     },
-    "0xd667b976e83de476a8d16116fb0c9e7eba8dd772.json": {
+    "0xd667b976e83de476a8d16116fb0c9e7eba8dd772": {
         "symbol": "UFO",
         "name": "UFO INU",
         "description": "We will use a kind of artificial intelligence technology beyond the comprehensiveness of today humanity.",
@@ -1400,9 +1400,9 @@
             "telegram": "https://t.me/ufoinucoin",
             "twitter": "https://twitter.com/InuUfo"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xd667b976e83de476a8d16116fb0c9e7eba8dd772.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xd667b976e83de476a8d16116fb0c9e7eba8dd772.png"
     },
-    "0xdc8112af540b802b52118b1d4e179d9dcc8653eb.json": {
+    "0xdc8112af540b802b52118b1d4e179d9dcc8653eb": {
         "symbol": "XCY",
         "name": "XCY",
         "description": "Build a social system that makes it easier for people to live.",
@@ -1410,9 +1410,9 @@
         "communities": {
             "facebook": "https://www.facebook.com/xcreation.co.jp/"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xdc8112af540b802b52118b1d4e179d9dcc8653eb.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xdc8112af540b802b52118b1d4e179d9dcc8653eb.png"
     },
-    "0xde0091a87fee2fc0a51bc830fdb108653c832a52.json": {
+    "0xde0091a87fee2fc0a51bc830fdb108653c832a52": {
         "symbol": "M",
         "name": "MichaelCoin",
         "description": "Michael Will Token",
@@ -1420,9 +1420,9 @@
         "communities": {
             "telegram": "https://t.me/htyzp"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xde0091a87fee2fc0a51bc830fdb108653c832a52.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xde0091a87fee2fc0a51bc830fdb108653c832a52.png"
     },
-    "0xe189a56891f6ca22797878e34992395a4afbde46.json": {
+    "0xe189a56891f6ca22797878e34992395a4afbde46": {
         "symbol": "YFI",
         "name": "yearn.finance ",
         "website": "https://tomochain.com",
@@ -1435,9 +1435,9 @@
             "youtube": "https://www.youtube.com/channel/UCXZ2rmjM84qS80RCj6vQ1gw",
             "reddit": "https://www.reddit.com/r/Tomochain/"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xe189a56891f6ca22797878e34992395a4afbde46.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xe189a56891f6ca22797878e34992395a4afbde46.png"
     },
-    "0xe1a9a5fae06696d314994a9d6915c12a63ad055d.json": {
+    "0xe1a9a5fae06696d314994a9d6915c12a63ad055d": {
         "symbol": "ZPAY",
         "name": "ZoidPay",
         "description": "ZoidPay's native token",
@@ -1451,9 +1451,9 @@
             "facebook": " https://www.facebook.com/zoidcoinnetwork",
             "coingecko": " https://www.coingecko.com/en/coins/zoid-pay"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xe1a9a5fae06696d314994a9d6915c12a63ad055d.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xe1a9a5fae06696d314994a9d6915c12a63ad055d.png"
     },
-    "0xe612d33b7af9da2cf09458660f234c443c1c9c80.json": {
+    "0xe612d33b7af9da2cf09458660f234c443c1c9c80": {
         "symbol": "Max",
         "name": "MaxBet",
         "description": "The token for maxbet.pigfarm.io",
@@ -1462,9 +1462,9 @@
             "telegram": "http://pigfarmteam.github.io/",
             "twitter": "https://twitter.com/PigFarmTeam"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xe612d33b7af9da2cf09458660f234c443c1c9c80.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xe612d33b7af9da2cf09458660f234c443c1c9c80.png"
     },
-    "0xe6a3017ebf0cde62a29640d557e9b440a6aa4fe9.json": {
+    "0xe6a3017ebf0cde62a29640d557e9b440a6aa4fe9": {
         "symbol": "TICKET",
         "name": "PantoDraw",
         "description": "A token that is used to play PantoDraw Gacha.",
@@ -1477,9 +1477,9 @@
             "instagram": "https://instagram.com/pantograph_io",
             "reddit": "https://www.reddit.com/r/Pantograph"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xe6a3017ebf0cde62a29640d557e9b440a6aa4fe9.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xe6a3017ebf0cde62a29640d557e9b440a6aa4fe9.png"
     },
-    "0xe6a7bf45333a7018f709760263b7a5200d245ed3.json": {
+    "0xe6a7bf45333a7018f709760263b7a5200d245ed3": {
         "symbol": "APT",
         "name": "Airdrops Platinum",
         "description": "Airdrops Platinum is the main gateway platform for projects and startups that will transform into a blockchain system with the full support of the worldwide community. Our vision is to create jobs for every people without income restrictions by participating in product development, blockchain projects and advertisers event.",
@@ -1491,16 +1491,16 @@
             "linkedin": "https://www.linkedin.com/groups/13973476/",
             "medium": "https://medium.com/@airdropsplatinum"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xe6a7bf45333a7018f709760263b7a5200d245ed3.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xe6a7bf45333a7018f709760263b7a5200d245ed3.png"
     },
-    "0xe96af3dcf41a2e73ba421e306a8336c3e7578971.json": {
+    "0xe96af3dcf41a2e73ba421e306a8336c3e7578971": {
         "symbol": "CRP",
         "name": "Cryptopia Token",
         "description": "Cryptopia token",
         "website": "https://Cryptopiatoken.com",
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xe96af3dcf41a2e73ba421e306a8336c3e7578971.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xe96af3dcf41a2e73ba421e306a8336c3e7578971.png"
     },
-    "0xea478716a70dc086707e23de17965acb5c7b7840.json": {
+    "0xea478716a70dc086707e23de17965acb5c7b7840": {
         "symbol": "MASQ",
         "name": "MASQ",
         "description": "MASQ Network utility token",
@@ -1518,9 +1518,9 @@
             "coinmarketcap": "https://coinmarketcap.com/currencies/masq/",
             "coingecko": "https://www.coingecko.com/en/coins/masq"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xea478716a70dc086707e23de17965acb5c7b7840.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xea478716a70dc086707e23de17965acb5c7b7840.png"
     },
-    "0xea8d13af16a33fc5de19c0b1edcf4cd053bd2fa9.json": {
+    "0xea8d13af16a33fc5de19c0b1edcf4cd053bd2fa9": {
         "symbol": "CONST",
         "name": "Constant Stablecoin ",
         "website": "https://myconstant.com",
@@ -1534,9 +1534,9 @@
             "facebook": "https://www.facebook.com/constantp2p",
             "github": "https://github.com/constant-money"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xea8d13af16a33fc5de19c0b1edcf4cd053bd2fa9.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xea8d13af16a33fc5de19c0b1edcf4cd053bd2fa9.png"
     },
-    "0xec8a3dd63322c2c6543b36b383e5c4f6145b291d.json": {
+    "0xec8a3dd63322c2c6543b36b383e5c4f6145b291d": {
         "symbol": "KOI",
         "name": "Koipool",
         "description": "Koi is used to distribute for winner of jackpot on koipool",
@@ -1544,9 +1544,9 @@
         "communities": {
             "telegram": "https://t.me/koipool"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xec8a3dd63322c2c6543b36b383e5c4f6145b291d.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xec8a3dd63322c2c6543b36b383e5c4f6145b291d.png"
     },
-    "0xefed7ac5165b0ff5b0e7a524ff9d6225acb80a40.json": {
+    "0xefed7ac5165b0ff5b0e7a524ff9d6225acb80a40": {
         "symbol": "ABHL",
         "name": "ABHL Token",
         "website": "http://www.abhl.hockeyleaguestats.com/",
@@ -1554,9 +1554,9 @@
         "communities": {
             "youtube": "https://www.youtube.com/channel/UCkTb6s-Pa-fhYtJFnfVOPaQ"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xefed7ac5165b0ff5b0e7a524ff9d6225acb80a40.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xefed7ac5165b0ff5b0e7a524ff9d6225acb80a40.png"
     },
-    "0xf15cb74216517781aa98f3787999bc5db6bf3b26.json": {
+    "0xf15cb74216517781aa98f3787999bc5db6bf3b26": {
         "symbol": "ONE",
         "name": "ShopOneCoin",
         "description": "Token ShopOneCoin",
@@ -1566,9 +1566,9 @@
             "telegram": "https://t.me/shoponecoin",
             "facebook": "https://www.facebook.com/ShopMuaBanOneCoin/"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xf15cb74216517781aa98f3787999bc5db6bf3b26.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xf15cb74216517781aa98f3787999bc5db6bf3b26.png"
     },
-    "0xf22a062e59cddc850536b2a538fbbdc4150a783d.json": {
+    "0xf22a062e59cddc850536b2a538fbbdc4150a783d": {
         "symbol": "UST",
         "name": "TerraUSD",
         "website": "https://terra.money/",
@@ -1580,9 +1580,9 @@
             "coinmarketcap": "https://coinmarketcap.com/currencies/terrausd/",
             "coingecko": "https://www.coingecko.com/en/coins/terra-usd"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xf22a062e59cddc850536b2a538fbbdc4150a783d.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xf22a062e59cddc850536b2a538fbbdc4150a783d.png"
     },
-    "0xf35f3d0823363c343d8e46bd6cc5f78da014c929.json": {
+    "0xf35f3d0823363c343d8e46bd6cc5f78da014c929": {
         "symbol": "GLAD",
         "name": "Gladius Finance",
         "description": "GLAD price live data the live gladius finance price today is $5.67 USD with a 24-hour trading volume of not available. gladius finance is up 1.44% in the last 24 hours. the current coinmarketCap ranking is #4407, with a live market cap of not available. the circulating supply is not available and a max. supply of 20,000 GLAD coins gladius finance is a fusion between a deFi yield farming and a nfts gaming dapp, aim at solving the problems that overshadowed yield farming platforms",
@@ -1596,9 +1596,9 @@
             "coinmarketcap": "https://coinmarketcap.com/currencies/gladius-finance/",
             "Uniswap": "https://info.uniswap.org/token/0xf75c5d8ed3f556ca670c06c08079609da6374a10/"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xf35f3d0823363c343d8e46bd6cc5f78da014c929.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xf35f3d0823363c343d8e46bd6cc5f78da014c929.png"
     },
-    "0xf3d5a80dc49fa951df851718b96b3f6b222ec068.json": {
+    "0xf3d5a80dc49fa951df851718b96b3f6b222ec068": {
         "symbol": "RUS",
         "name": "RMUTSB Token",
         "website": "http://www.rmutsb.ac.th/",
@@ -1608,9 +1608,9 @@
             "youtube": "https://www.youtube.com/channel/UCFBkKLiGhV2Hvjl7HfXI0OQ",
             "facebook": "https://www.facebook.com/RUS.Suvarnabhumi/"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xf3d5a80dc49fa951df851718b96b3f6b222ec068.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xf3d5a80dc49fa951df851718b96b3f6b222ec068.png"
     },
-    "0xf42ffb2e444e3f4f02bc3395cb21a4a35137e196.json": {
+    "0xf42ffb2e444e3f4f02bc3395cb21a4a35137e196": {
         "symbol": "UNI",
         "name": "Uniswap",
         "website": "https://uniswap.org/",
@@ -1622,9 +1622,9 @@
             "coinmarketcap": "https://coinmarketcap.com/currencies/uniswap/",
             "coingecko": "https://www.coingecko.com/en/coins/uniswap"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xf42ffb2e444e3f4f02bc3395cb21a4a35137e196.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xf42ffb2e444e3f4f02bc3395cb21a4a35137e196.png"
     },
-    "0xf453d36acde1781a19acd7ae0fcc86a8cc998a8a.json": {
+    "0xf453d36acde1781a19acd7ae0fcc86a8cc998a8a": {
         "symbol": "SFR",
         "name": "SAFARI",
         "description": "Safari proposes an ecosystem designed to change the way clients looking for consultancy services perform their sourcing\nand help consultants to advertise and drive customers to their businesss. The Safari ecosystem include:\n✓SFR token: The Safari Token (SFR) will be used to power the payment system on mobile application for consultancy services sourcing platform & SafariDEX.\n\n✓Clients: Providing clients/customers looking for consultancy services access to consultant's profile, local trends, promotions and deals based on their current or any location. Enabling clients to become aware of profile, social\nmedia posts, offers and trends from consultancy services providers around them.\n\n✓Consultants: Affordable and more effective advertising platform, enabling them\nto target nearby clients with incentives to visit their offices or close the deal through our platform.",
@@ -1633,9 +1633,9 @@
             "telegram": "https://t.me/safari_official",
             "twitter": "https://twitter.com/SafariOfficial1"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xf453d36acde1781a19acd7ae0fcc86a8cc998a8a.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xf453d36acde1781a19acd7ae0fcc86a8cc998a8a.png"
     },
-    "0xf623065d1c8e28bf8cadfd60966278cc570efa0d.json": {
+    "0xf623065d1c8e28bf8cadfd60966278cc570efa0d": {
         "symbol": "PAXG",
         "name": "PAX Gold",
         "website": "https://www.paxos.com/paxgold/",
@@ -1647,9 +1647,9 @@
             "coinmarketcap": "https://coinmarketcap.com/currencies/pax-gold/",
             "coingecko": "https://www.coingecko.com/en/coins/pax-gold"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xf623065d1c8e28bf8cadfd60966278cc570efa0d.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xf623065d1c8e28bf8cadfd60966278cc570efa0d.png"
     },
-    "0xf89e4f188069e492c6ee204384709eae9a1dcc56.json": {
+    "0xf89e4f188069e492c6ee204384709eae9a1dcc56": {
         "symbol": "SNX",
         "name": "Synthetix",
         "description": "THE DERIVATIVES LIQUIDITY PROTOCOL",
@@ -1662,9 +1662,9 @@
             "coinmarketcap": "https://coinmarketcap.com/currencies/synthetix-network-token/",
             "coingecko": "https://www.coingecko.com/en/coins/synthetix-network-token"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xf89e4f188069e492c6ee204384709eae9a1dcc56.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xf89e4f188069e492c6ee204384709eae9a1dcc56.png"
     },
-    "0xf955731010a60a8cbf50e5cc7a8790826ccf65ad.json": {
+    "0xf955731010a60a8cbf50e5cc7a8790826ccf65ad": {
         "symbol": "BAS",
         "name": "Basis Share",
         "website": "https://basis.cash/",
@@ -1676,9 +1676,9 @@
             "coinmarketcap": "https://coinmarketcap.com/currencies/basis-share/",
             "coingecko": "https://www.coingecko.com/en/coins/basis-share"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xf955731010a60a8cbf50e5cc7a8790826ccf65ad.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xf955731010a60a8cbf50e5cc7a8790826ccf65ad.png"
     },
-    "0xf95f20a95ed41262cb0d790948e0899c79ce8e89.json": {
+    "0xf95f20a95ed41262cb0d790948e0899c79ce8e89": {
         "symbol": "EGW",
         "name": "EGW Capital",
         "description": "EGW Capital is a blockchain investment bank. The company helps the companies to list their equity-backed or non-equity-backed coins on the crypto exchanges. EGW Capital also specializes in traditional US stock exchange listings which include Regulation A+ Offerings, Reverse Mergers, and Regular IPO’s.",
@@ -1686,9 +1686,9 @@
         "communities": {
             "twitter": "https://twitter.com/egwcapital"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xf95f20a95ed41262cb0d790948e0899c79ce8e89.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xf95f20a95ed41262cb0d790948e0899c79ce8e89.png"
     },
-    "0xf9787e76750c1e731054cf4cc97a2e3f490db360.json": {
+    "0xf9787e76750c1e731054cf4cc97a2e3f490db360": {
         "symbol": "LIT",
         "name": "Lition",
         "description": "The future of private Blockchain for digital assets. Lition is developing the scalable public-private blockchain with deletable data features, made for commercial products.",
@@ -1701,9 +1701,9 @@
             "linkedin": "https://www.linkedin.com/company/18599556",
             "medium": "https://medium.com/lition-blog"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xf9787e76750c1e731054cf4cc97a2e3f490db360.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xf9787e76750c1e731054cf4cc97a2e3f490db360.png"
     },
-    "0xfe319da470c38525002b5664026198ccc0629ec3.json": {
+    "0xfe319da470c38525002b5664026198ccc0629ec3": {
         "symbol": "EGW",
         "name": "EGW Capital",
         "description": "EGW Capital is a blockchain and traditional investment bank which facilitates crypto and stock exchange listings.",
@@ -1711,9 +1711,9 @@
         "communities": {
             "twitter": "https://twitter.com/egwcapital"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xfe319da470c38525002b5664026198ccc0629ec3.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xfe319da470c38525002b5664026198ccc0629ec3.png"
     },
-    "0xfeb9ae1ccec15cd8ccd37894ef3e24ec5414e781.json": {
+    "0xfeb9ae1ccec15cd8ccd37894ef3e24ec5414e781": {
         "symbol": "DEC",
         "name": "Decentr",
         "website": "https://decentr.net/",
@@ -1723,9 +1723,9 @@
             "medium": "https://medium.com/@DecentrNet",
             "youtube": "https://www.youtube.com/channel/UCSKb6qG4ixZLdZ4TIjDCc4Q"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xfeb9ae1ccec15cd8ccd37894ef3e24ec5414e781.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xfeb9ae1ccec15cd8ccd37894ef3e24ec5414e781.png"
     },
-    "0xff0925745bb346295aa10b06f714d46282330b68.json": {
+    "0xff0925745bb346295aa10b06f714d46282330b68": {
         "symbol": "SWAP",
         "name": "Swapping",
         "description": "Instant crypto exchange without any KYC.",
@@ -1735,6 +1735,6 @@
             "telegram": "https://t.me/swapping_io",
             "twitter": "https://twitter.com/swapping_io"
         },
-        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xff0925745bb346295aa10b06f714d46282330b68.json.png"
+        "logo": "https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/0xff0925745bb346295aa10b06f714d46282330b68.png"
     }
 }
