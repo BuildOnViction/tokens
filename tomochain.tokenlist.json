@@ -821,10 +821,10 @@
     "0x8103bb77ed2035b5da9a3a65d9c313cb6ee41dbd": {
         "symbol": "TAB",
         "name": "TAB BANK",
-        "description": "the token using for payment online, and decentralized finance",
+        "description": "crypto ecosystem that include: e-commerce, social networks, exchanges and crypto wallet",
         "website": "https://tabank.org/",
         "communities": {
-            "telegram": "https://t.me/joinchat/HOOubhpHap2fyMgs6QiMWw",
+            "telegram": "https://t.me/tabankorg",
             "twitter": "https://twitter.com/OrgTabank"
         },
         "logo": "https://raw.githubusercontent.com/tomochain/tokens/master/tokens/0x8103bb77ed2035b5da9a3a65d9c313cb6ee41dbd.png"
