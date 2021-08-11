@@ -15,7 +15,7 @@ const main = async () => {
                 let token = require(fileName)
                 let s = fileName.split('/')
                 let tokenAddress = s[s.length - 1].split('.json')[0]
-                token.logo = `https://raw.githubusercontent.com/thanhnguyennguyen/tokens/master/tokens/${tokenAddress}.png`
+                token.logo = `https://raw.githubusercontent.com/tomochain/tokens/master/tokens/${tokenAddress}.png`
                 tokens[tokenAddress] = token
             } catch (error) {
                 console.log(`Error at ${file} ${error}`)
