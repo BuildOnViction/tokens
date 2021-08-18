@@ -1,4 +1,3 @@
-json
 {
     "symbol": "XFX",
     "name": "XFX Solutions",
@@ -11,5 +10,4 @@ json
         "twitter": "https://twitter.com/XfxFutures",
         "discord": "https://discord.gg/2pbN77c"
     }
-    
 }
