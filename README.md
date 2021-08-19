@@ -1,44 +1,38 @@
-## Update token information
-There are 2 ways to update your token information in TomoChain's products.
+# TomoChain token information
+TomoChain token repository storage tokens information in TomoChain network
 
-1. [Create an issue](https://github.com/tomochain/tokens/issues/new?assignees=thanhson1085%2C+khaihkd&labels=help+wanted&template=feature-request.md&title=)
-2. Create a pull request
+TomoChain's products use token logos and information from this source.
+
+## How to update token information
+There are 2 ways to update your token information in TomoChain's products. After creating an issue or a pull request. **You have to pay TOMO for the process (10 TOMO for a pull request, 20 TOMO for an issue)**
+
 
 If you have any question, you can create [a "question" issue](https://github.com/tomochain/tokens/issues/new?assignees=&labels=question&template=question.md&title=).
 
-Your requests/questions will be processed before the first working day of the next month.
+### 1. [Create an issue](https://github.com/tomochain/tokens/issues/new?assignees=thanhson1085%2C+khaihkd&labels=help+wanted&template=feature-request.md&title=)
 
+Fill title and content info like suggestions at the box 
 
-**How To Update Token Information by a pull request**
-- Follow image requirements
-- Proceed to https://github.com/tomochain/tokens
-- Press on Fork in the top right corner, wait for process to complete
-- Navigate to `tokens` folder on your own fork
-- Press on Upload File in the top right corner
-- Choose file, make sure it follows requirements above
-- Press on Commit changes
-- Navigate to `tokens` folder on your own fork
-- Press on Create new file in the top right corner
-- Follow token information requirements and create the file
-- Press on Commit changes
-- Press on New pull request on your own fork page and submit it by pressing on Create pull request!
-- Press on Create pull request
-- Once tests have completed and verified that your image follows all requirements, a maintainer will merge it. In 5-10 minutes your token will have the updated image in TomoChain's products
+### 2. Create a pull request
 
-**Image Requirements**
+#### **Image Requirements**
 
-- file extension: png. Uppercase PNG considered invalid.
-- name：contract_address.png in lowercase register. Ex: 0xea8d13af16a33fc5de19c0b1edcf4cd053bd2fa9.png
-- size: 256px by 256px
+- file extension: **png** (`PNG` is invalid)
+- name：contract_address.png (filename in lowercase). Example: `0xea8d13af16a33fc5de19c0b1edcf4cd053bd2fa9.png`
+- Resolution: recommend 256x256 px
+- size: under 512 KB
 - background: preferably transparent
-- use simple drag and drop online service [tinypng](https://tinypng.com/) to optimize image size
+
+*(use simple drag and drop online service [tinypng](https://tinypng.com/) to optimize image size)*
 
 
-**Token Information Requirement**
+#### **Token Information Requirement**
 
-- file extension: json. Uppercase JSON considered invalid.
-- name：contract_address.json in lowercase register. Ex: 0xea8d13af16a33fc5de19c0b1edcf4cd053bd2fa9.json
-- required fields: `symbol`, `name`, `site`
+- file extension: **json** (`JSON` is invalid)
+- name：contract_address.json  (filename in lowercase). Example: `0xea8d13af16a33fc5de19c0b1edcf4cd053bd2fa9.json`
+- required fields: `symbol`, `name`, `website`
+
+Website must is: https://name.extend (**DO NOT** accept https://name.extend/project)
 
 **Example**
 
@@ -63,8 +57,43 @@ Your requests/questions will be processed before the first working day of the ne
     
 }
 ```
-## Wrapped ERC-20 badger
-- Add the token address to `brigde.json`
+
+## Payment process
+Send exactly TOMO amount to this address `0xceaa266c800c23bad30aab1659392d09e35a33b3` with extra data (your token address)
+10 TOMO for a pull request
+20 TOMO for an issue
+
+Comment your transaction in issue (or pull request) content
+### How to payment in Metamask
+- Turn on extra data: Select the circular icon on the top-right corner of MetaMask, then click Settings --> Advanced, scroll down and enable "Show Hex Data".
+- Fill your token address to Hex Data
+
+![metamask sample](./screenshot/metamask.png)
+
+### How to payment in Trustwallet
+- After fill address and TOMO amount click to continue. Click to Setting icon on top right
+- Fill your token address to `Transaction Data`
+
+![trustwallet sample](./screenshot/trustwallet.png)
+
+
+### How To Update Token Information by a pull request
+- Follow image requirements
+- Proceed to https://github.com/tomochain/tokens
+- Press on Fork in the top right corner, wait for process to complete
+- Navigate to `tokens` folder on your own fork
+- Press on Upload File in the top right corner
+- Choose file, make sure it follows requirements above
+- Press on Commit changes
+- Navigate to `tokens` folder on your own fork
+- Press on Create new file in the top right corner
+- Follow token information requirements and create the file
+- Press on Commit changes
+- Press on New pull request on your own fork page and submit it by pressing on Create pull request!
+- Press on Create pull request
+- Once tests have completed and verified that your image follows all requirements, a maintainer will merge it. In 5-10 minutes your token will have the updated image in TomoChain's products
+
+
 
 ## Token Verification (blue tick) & Token Black List
 - `verifiedlist.json` list all tokens have blue tick
