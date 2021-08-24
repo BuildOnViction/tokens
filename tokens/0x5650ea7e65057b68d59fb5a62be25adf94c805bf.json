@@ -1,0 +1,12 @@
+{
+    "symbol": "ECP",
+    "name": "Ecommerce platform",
+    "description": "ECP is a TRC21 token used as a means of payment at https://ecp.exchange\nhttps://ecp.exchange is an e-commerce platform where buyers and sellers exchange directly with each other without intermediaries",
+    "website": "https://ecp.exchange/",
+    "communities": {
+        "github": "https://github.com/EcpExchange",
+        "telegram": "https://t.me/ecpexchange",
+        "twitter": "https://twitter.com/EcpExchange",
+        "facebook": "https://facebook.com/groups/ecptokentrc21"
+    }
+}
