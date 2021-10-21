@@ -1,0 +1,17 @@
+{
+  "symbol": "tDAO",
+  "name": "TomoMasterDAO",
+  "description": "Governance for grants on TomoChain",
+  "website": "https://tomochain.com",
+  "communities": {
+    "email": "admin@tomochain.com",
+    "telegram": "https://t.me/TomoMasterDAO",
+    "reddit": "https://www.reddit.com/r/Tomochain/",
+    "medium": "https://medium.com/tomochain",
+    "youtube": "https://www.youtube.com/channel/UCXZ2rmjM84qS80RCj6vQ1gw",
+    "twitter": "https://twitter.com/TomoChainANN",
+    "facebook": "https://www.facebook.com/tomochainofficial/",
+    "github": "https://github.com/tomochain"
+  }
+
+}
