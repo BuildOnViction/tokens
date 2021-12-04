@@ -1,0 +1,13 @@
+{
+     "símbolo" : " BTC " ,
+     "nombre" : " Bitcoin “,
+     "sitio web" : " https://tomochain.com " ,
+     "comunidades" : {
+         "correo electrónico" : " support@btc " ,
+         " twitter " : " https://twitter.com/bitcoincoreorg " ,
+         " github " : " https://github.com/bitcoin/bitcoin" ,
+         " coinmarketcap " : "https://coinmarketcap.com/es/currencies/bitcoin/",
+         "coingecko" : " https://www.coingecko.com/es/monedas/bitcoin"
+    }
+    
+}
