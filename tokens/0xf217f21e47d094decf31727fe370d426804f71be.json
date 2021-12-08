@@ -1,0 +1,17 @@
+{
+    "symbol": "TST",
+    "name": "The Standard Token",
+    "description": "The Standard Token (TST) allows holders to participate in the governance system deciding on stability fee rates, new features, hard Asset Custodians due-diligence and onboarding requirements. It is designed to ensure efficiency, decentralization, and transparency of the protocol.",
+    "website": "https://thestandard.io/",
+    "communities": {
+        "email": "info@thestandard.io",
+        "telegram": "https://t.me/TheStandard_io",
+        "reddit": "https://www.reddit.com/r/TheStandard_io/",
+        "medium": "https://medium.com/@thestandard.io",
+        "youtube": "https://www.youtube.com/thestandard_io",
+        "twitter": "https://twitter.com/thestandard_io",
+        "facebook": "https://www.facebook.com/thestandard.io/",
+        "github": "https://github.com/the-standard",
+        "coingecko": "https://www.coingecko.com/en/coins/standard-token"
+    }
+}
