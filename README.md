@@ -58,25 +58,6 @@ Website must is: https://name.extend (**DO NOT** accept https://name.extend/proj
 }
 ```
 
-## Payment process
-Send exactly TOMO amount to this address `0xceaa266c800c23bad30aab1659392d09e35a33b3` with extra data (your token address)
-10 TOMO for a pull request
-20 TOMO for an issue
-
-Comment your transaction in issue (or pull request) content
-### How to payment in Metamask
-- Turn on extra data: Select the circular icon on the top-right corner of MetaMask, then click Settings --> Advanced, scroll down and enable "Show Hex Data".
-- Fill your token address to Hex Data
-
-![metamask sample](./screenshot/metamask.png)
-
-### How to payment in Trustwallet
-- After fill address and TOMO amount click to continue. Click to Setting icon on top right
-- Fill your token address to `Transaction Data`
-
-![trustwallet sample](./screenshot/trustwallet.png)
-
-
 ### How To Update Token Information by a pull request
 - Follow image requirements
 - Proceed to https://github.com/tomochain/tokens
