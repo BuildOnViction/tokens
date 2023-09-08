@@ -2,6 +2,7 @@
   "symbol": "WTOMO",
   "name": "Wrapped TOMO",
   "website": "https://tomochain.com",
+  "isVerified": true,
   "communities": {
     "email": "admin@tomochain.com",
     "twitter": "https://twitter.com/TomoChainANN",

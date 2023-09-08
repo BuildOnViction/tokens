@@ -3,6 +3,7 @@
     "name": "Coin98",
     "description": "Coin98 token",
     "website": "https://coin98.com",
+    "isVerified": true,
     "communities": {
         "email": "hi@coin98.finance",
         "telegram": "https://t.me/coin98wallet",
