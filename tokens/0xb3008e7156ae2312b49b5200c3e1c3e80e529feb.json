@@ -1,0 +1,20 @@
+{
+    "symbol": "CUSD",
+    "name": "CUSD",
+    "description": "Coin98 Dollar",
+    "website": "https://coin98.com",
+    "isVerified": true,
+    "communities": {
+        "email": "hi@coin98.finance",
+        "telegram": "https://t.me/coin98wallet",
+        "reddit": "https://www.reddit.com/r/coin98/",
+        "medium": "https://medium.com/coin98",
+        "youtube": "https://www.youtube.com/channel/UCJ_I3MsOBg47RLBw59Wtkiw",
+        "twitter": "https://twitter.com/coin98_finance",
+        "facebook": "https://www.facebook.com/Coin98SuperApp/",
+        "github": "https://github.com/coin98",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/coin98-dollar/",
+        "coingecko": "https://www.coingecko.com/en/coins/coin98-dollar"
+    }
+    
+}
