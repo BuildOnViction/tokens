@@ -1,4 +1,4 @@
-# TomoChain token information
+# Viction token information
 Viction token repository storage tokens information in Viction network
 
 Viction's products use token logos and information from this source.
