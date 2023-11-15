@@ -9,6 +9,8 @@ There are 2 ways to update your token information in Viction's products. After c
 If you have any question, you can create [a "question" issue](https://github.com/tomochain/tokens/issues/new?assignees=&labels=question&template=question.md&title=).
 
 ### 1. Provide token information
+Choose one optional below:
+
 #### a. [Create an issue](https://github.com/BuildOnViction/tokens/issues/new?assignees=bobcoin98&labels=help+wanted&template=feature-request.md&title=)
 (for non-tech people)
 
