@@ -8,11 +8,17 @@ There are 2 ways to update your token information in Viction's products. After c
 
 If you have any question, you can create [a "question" issue](https://github.com/tomochain/tokens/issues/new?assignees=&labels=question&template=question.md&title=).
 
-### 1. [Create an issue](https://github.com/BuildOnViction/tokens/issues/new?assignees=bobcoin98&labels=help+wanted&template=feature-request.md&title=)
+### 1. Provide token information
+#### a. [Create an issue](https://github.com/BuildOnViction/tokens/issues/new?assignees=bobcoin98&labels=help+wanted&template=feature-request.md&title=)
+(for non-tech people)
 
 Fill title and content info like suggestions at the box 
+- Token address, name, symbol
+- Logo (.png, size 256x256, transparent background)
+- Website, twitter, telegram, github, facebook official contact email, coingecko id
 
-### 2. Create a pull request
+#### b. Create a pull request
+(for developers)
 
 #### **Image Requirements**
 
@@ -24,6 +30,7 @@ Fill title and content info like suggestions at the box
 
 *(use simple drag and drop online service [tinypng](https://tinypng.com/) to optimize image size)*
 
+- Upload file to folder: /tokens/[token_address_in_lowercase_format].png
 
 #### **Token Information Requirement**
 
@@ -53,10 +60,14 @@ Website must is: https://name.extend (**DO NOT** accept https://name.extend/proj
     
 }
 ```
+- Upload file to folder: /tokens/[token_address_in_lowercase_format].json
 
 
-Send message to announce us 
+### 2. Request our team
 
-Telegram: https://t.me/viction_global
+- Pay fee: 10 VIC to address [0x79d37065646E693f2D49a26B980fcD58f0Af6435](https://www.vicscan.xyz/address/0x79d37065646E693f2D49a26B980fcD58f0Af6435)
+- Send message to announce us 
 
-Discord: https://viction.link/discord
+    - Telegram: https://t.me/viction_global
+
+    - Discord: https://viction.link/discord
