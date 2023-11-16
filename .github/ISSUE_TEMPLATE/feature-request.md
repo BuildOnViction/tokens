@@ -1,19 +1,20 @@
 ---
 name: Update Token Information
-about: Request to update token information on TomoScan
-title: ''
+about: Request to update token information on VicScan
+title: Update token information for [VIC]
 labels: help wanted
-assignees: 'thanhson1085, khaihkd'
+assignees: ''
 
 ---
+
 **Token Address**
-e.g: https://scan.tomochain.com/address/0x
+e.g: https://vicscan.xyz/address/0x
 
 **Token Symbol**
-e.g: TOMO, KNC
+e.g: VIC, C98
 
 **Token Name**
-e.g: TomoChain, Kyber
+e.g: Viction, Coin98
 
 **Token Logo**
 PNG 256px by 256px

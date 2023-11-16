@@ -3,7 +3,7 @@ name: Question
 about: Feel free to ask any question that related to this project
 title: ''
 labels: question
-assignees: 'thanhson1085,khaihkd'
+assignees: ''
 
 ---
 
