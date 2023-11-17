@@ -3,7 +3,7 @@ name: Update Token Information
 about: Request to update token information on VicScan
 title: Update token information for [VIC]
 labels: help wanted
-assignees: ''
+assignees: bobcoin98
 
 ---
 
