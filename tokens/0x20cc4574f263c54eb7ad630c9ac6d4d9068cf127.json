@@ -2,7 +2,7 @@
   "symbol": "USDC",
   "name": "Bridged USDC (Arken)",
   "description": "Arken Finance's bridged USDC token",
-  "website": "https://www.circle.com/",
+  "website": "https://www.arken.finance",
   "communities": {
     "twitter": "https://twitter.com/circle",
     "github": "https://github.com/circlefin/stablecoin-evm",
