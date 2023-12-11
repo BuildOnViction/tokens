@@ -1,0 +1,12 @@
+{
+  "symbol": "USDC",
+  "name": "Bridged USDC (Arken)",
+  "description": "Arken Finance's bridged USDC token",
+  "website": "https://www.arken.finance",
+  "communities": {
+    "twitter": "https://twitter.com/circle",
+    "github": "https://github.com/circlefin/stablecoin-evm",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/usd-coin/",
+    "coingecko": "https://www.coingecko.com/en/coins/usdc"
+  }
+}

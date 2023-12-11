@@ -1,0 +1,15 @@
+{
+  "symbol": "ARKEN",
+  "name": "Arken Token",
+  "description": "Arken Finance's officially bridged token",
+  "website": "https://arken.finance/",
+  "communities": {
+    "email": "marketing@arken.finance",
+    "telegram": "https://t.me/arkenfinance",
+    "twitter": "https://twitter.com/ArkenFinance",
+    "facebook": "https://fb.me/arkenfinance",
+    "github": "https://github.com/arken-lab",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/arken/",
+    "coingecko": "https://www.coingecko.com/en/coins/arken-finance"
+  }
+}
