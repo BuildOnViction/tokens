@@ -1,0 +1,10 @@
+{
+    "symbol": "WETH",
+    "name": "Bridged WETH (Arken)",
+    "description": "Arken Finance's officially bridged token",
+    "website": "https://arken.finance/",
+    "communities": {
+        "coinmarketcap": "https://coinmarketcap.com/currencies/weth/",
+        "coingecko": "https://www.coingecko.com/en/coins/weth"
+    }
+}
