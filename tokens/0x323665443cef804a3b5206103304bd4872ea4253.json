@@ -1,0 +1,13 @@
+{
+    "symbol": "USDV",
+    "name": "Verified USD",
+    "website": "https://usdv.money",
+    "communities": {
+        "email": "business@usdv.money",
+        "twitter": "https://twitter.com/USDV_Money",
+        "gitbook": "https://docs.usdv.money/docs/contracts/mainnet",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/verified-usd/",
+        "coingecko": "https://www.coingecko.com/en/coins/verified-usd"
+    }
+
+}
