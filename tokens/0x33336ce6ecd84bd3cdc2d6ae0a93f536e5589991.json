@@ -1,0 +1,10 @@
+{
+    "symbol": "sVIC",
+    "name": "Staked VIC",
+    "description": "Viction Decentralized Staking Service",
+    "website": "https://vicpool.fi",
+    "communities": {
+        "telegram": "https://t.me/vic_pool",
+        "twitter": "https://twitter.com/vicpool_fi"
+    }
+}
