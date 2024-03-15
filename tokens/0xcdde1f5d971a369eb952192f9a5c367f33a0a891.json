@@ -1,0 +1,11 @@
+{
+    "symbol": "SVIC",
+    "name": "deFusion Staked VIC",
+    "description": "The SVIC token is a tokenized version of staked VIC. When a user sends VIC into the deFusion liquid staking smart contract, the user receives the corresponding amount of SVIC tokens",
+    "website": "https://www.defusion.xyz",
+    "communities": {
+        "telegram": "https://t.me/deFusion_ann",
+        "twitter": "https://twitter.com/deFusionxyz",
+        "discord": "https://discord.gg/ZWJnP4UygJ"
+    }
+}
