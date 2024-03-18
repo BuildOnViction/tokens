@@ -1,0 +1,11 @@
+{
+    "symbol": "Starship",
+    "name": "Starship",
+    "description": "A community-driven fundraising platform for builders, by builders.",
+    "website": "https://starship.network/",
+    "communities": {
+        "telegram": "https://t.me/Starship_HQ",
+        "twitter": "https://twitter.com/starship_hq",
+        "discord": "https://discord.gg/WtPB8y88A5"
+    }
+}
