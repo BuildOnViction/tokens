@@ -1,0 +1,13 @@
+{
+  "symbol": "USDT",
+  "name": "Tether USD",
+  "description": "(VRC25) Tether USD",
+  "website": "https://tether.to/",
+  "communities": {
+    "telegram": "https://t.me/tether",
+    "twitter": "https://twitter.com/Tether_to",
+    "facebook": "https://www.facebook.com/tether.to",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/tether/",
+    "coingecko": "https://www.coingecko.com/en/coins/tether"
+  }
+}
