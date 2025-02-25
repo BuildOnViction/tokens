@@ -1,0 +1,10 @@
+{
+  "symbol": "WMOCA",
+  "name": "Wrapped MOCA (WMOCA)",
+  "description": "Moca Network is building the chain-agnostic digital identity infrastructure for the open internet - one universal account for your assets, identity, and reputation across multiple ecosystems.",
+  "website": "https://www.mocaverse.xyz/",
+  "communities": {
+      "twitter": "https://x.com/Moca_Network",
+      "coingecko": "https://www.coingecko.com/en/coins/moca-coin"
+  }
+}
